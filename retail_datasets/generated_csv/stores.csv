@@ -1,0 +1,101 @@
+store_id,store_name,store_type,city,state,region,zipcode,manager_name,open_date
+1,Retail_Store_1,Mall,East Alexa,Michigan,North,58206,Brandi Prince,2023-11-06
+2,Retail_Store_2,Express,Lake Anthony,Indiana,West,48573,Samantha Guzman,2023-12-13
+3,Retail_Store_3,Supermarket,Wyattbury,Minnesota,Central,04972,Brian Ward,2019-05-30
+4,Retail_Store_4,Express,Matthewside,Mississippi,West,88905,Lindsay Romero,2021-04-20
+5,Retail_Store_5,Express,West Steven,Wyoming,Central,31612,Mackenzie Nguyen,2024-10-26
+6,Retail_Store_6,Supermarket,East Darrell,California,East,42511,Casey Chen,2018-10-21
+7,Retail_Store_7,Mall,Mcgeefort,South Dakota,North,73927,Adrian Martinez,2017-12-07
+8,Retail_Store_8,Flagship,East Barbara,Wyoming,East,88534,Mrs. Allison Joyce,2020-11-01
+9,Retail_Store_9,Flagship,Hughesshire,Montana,East,75439,Edward Franco,2025-04-17
+10,Retail_Store_10,Supermarket,Lake Diana,Montana,South,51248,Dustin White,2018-11-13
+11,Retail_Store_11,Mall,North Scottborough,Utah,West,83133,Dawn Robertson,2023-03-16
+12,Retail_Store_12,Flagship,West Caitlin,Virginia,West,13940,Rachel Decker,2020-10-20
+13,Retail_Store_13,Express,Swansonmouth,Vermont,South,29375,Tammy Harris,2020-07-04
+14,Retail_Store_14,Flagship,Lake Sarashire,Connecticut,West,75470,Robert Ramirez,2018-03-24
+15,Retail_Store_15,Supermarket,North Danielfort,New York,West,10418,Roberto Kaiser,2017-12-19
+16,Retail_Store_16,Express,Port Ann,Arkansas,North,01260,Erica Holder,2021-10-17
+17,Retail_Store_17,Outlet,West Kimberlyfurt,South Carolina,West,22771,Misty Morrison,2024-06-10
+18,Retail_Store_18,Mall,Port Matthew,Connecticut,East,66620,Julia Yoder,2024-08-09
+19,Retail_Store_19,Flagship,Valeriemouth,Arizona,West,65469,Karla Hall,2024-08-12
+20,Retail_Store_20,Mall,West Sarah,Florida,Central,73970,Angel Schneider,2017-01-09
+21,Retail_Store_21,Mall,South Toddmouth,Mississippi,West,66670,Edward Gray,2020-02-12
+22,Retail_Store_22,Mall,Coxmouth,Vermont,West,14137,Maria Castillo,2023-01-26
+23,Retail_Store_23,Supermarket,Mendezville,New Jersey,South,74360,Kimberly Stark,2025-03-28
+24,Retail_Store_24,Supermarket,Lake Alexandramouth,West Virginia,South,50699,Rhonda Lee,2023-12-30
+25,Retail_Store_25,Mall,Thomasburgh,Kentucky,North,65604,Terrence Thompson,2022-01-04
+26,Retail_Store_26,Mall,Port Dennishaven,South Carolina,South,18009,Kevin Allen,2023-09-08
+27,Retail_Store_27,Supermarket,Jennifermouth,Connecticut,North,32965,Dale Gamble,2022-01-11
+28,Retail_Store_28,Outlet,West Crystalburgh,Nevada,West,54045,Ashley Rush,2017-04-25
+29,Retail_Store_29,Flagship,Lake Jenniferstad,Rhode Island,Central,51637,Matthew Wise,2023-08-02
+30,Retail_Store_30,Supermarket,New Jessicastad,Louisiana,South,10521,Stacey Ruiz,2022-05-31
+31,Retail_Store_31,Outlet,New Gloriaport,Louisiana,Central,36060,Elaine Simon,2017-06-30
+32,Retail_Store_32,Mall,New Timothytown,Delaware,South,31284,Anthony Fisher,2018-12-31
+33,Retail_Store_33,Mall,Robertsland,Texas,East,47737,Jeremy Porter,2017-04-01
+34,Retail_Store_34,Outlet,East Christophermouth,Texas,East,97961,Martha Davis,2017-03-24
+35,Retail_Store_35,Supermarket,Kathychester,Maryland,East,51319,Tommy Long,2023-07-20
+36,Retail_Store_36,Mall,Brendaview,North Carolina,West,61666,Christine Davis,2018-05-25
+37,Retail_Store_37,Flagship,Ashleystad,California,West,66235,Joshua Williams,2020-05-26
+38,Retail_Store_38,Express,Laurenfurt,Alabama,South,12470,Alyssa Mccarthy,2024-07-10
+39,Retail_Store_39,Flagship,Port Ryan,Massachusetts,Central,70190,Joshua Barnett,2025-04-09
+40,Retail_Store_40,Flagship,Schultztown,Alaska,East,36551,Melanie Cross,2017-08-19
+41,Retail_Store_41,Mall,South Maria,Florida,North,49328,David Gentry,2021-02-28
+42,Retail_Store_42,Flagship,Hornton,Michigan,Central,67219,Randy George,2021-11-04
+43,Retail_Store_43,Outlet,Lake Kimberlyshire,Alaska,West,96817,Charles Baldwin,2018-03-05
+44,Retail_Store_44,Express,Adamsville,Minnesota,Central,55478,Keith Hines,2021-08-05
+45,Retail_Store_45,Supermarket,New Joe,Illinois,West,22746,Cristina Thornton,2019-02-27
+46,Retail_Store_46,Mall,Nathantown,North Dakota,West,23643,Mark York,2017-10-11
+47,Retail_Store_47,Mall,Kaufmanshire,Georgia,East,49715,Lindsey Patel,2023-01-31
+48,Retail_Store_48,Express,Joshuaview,Arkansas,North,58346,Laura Flores,2016-10-26
+49,Retail_Store_49,Express,Lake Daniel,Oregon,South,84128,Tracey Nunez,2020-02-28
+50,Retail_Store_50,Express,Jennahaven,Texas,South,57147,Laura Lopez,2018-03-02
+51,Retail_Store_51,Mall,New Austinbury,West Virginia,West,88971,Michael Hancock,2016-09-15
+52,Retail_Store_52,Express,East Miaview,Vermont,West,64272,Sydney Willis,2025-04-14
+53,Retail_Store_53,Express,Brooketon,Missouri,North,73196,Steven Wolfe,2020-04-03
+54,Retail_Store_54,Express,Robinsonmouth,Tennessee,West,08330,Kenneth Mccarthy,2021-01-27
+55,Retail_Store_55,Express,Myersburgh,Delaware,Central,44706,David Harrison,2020-05-13
+56,Retail_Store_56,Supermarket,Clarkville,Mississippi,North,58367,Misty Quinn,2023-11-12
+57,Retail_Store_57,Outlet,Weberport,Massachusetts,South,07228,Christine Wilson,2021-04-03
+58,Retail_Store_58,Outlet,East Ralph,California,West,64059,Larry Hoffman,2025-01-15
+59,Retail_Store_59,Mall,Michaelshire,North Carolina,North,87807,Amanda Reyes,2021-12-26
+60,Retail_Store_60,Supermarket,West Christopherbury,Kansas,West,29885,Dustin Lee,2016-07-14
+61,Retail_Store_61,Outlet,West Paulside,Delaware,West,74653,Connor Alvarez,2025-01-04
+62,Retail_Store_62,Flagship,Bergerstad,New Hampshire,South,57498,Virginia Kelly,2024-12-13
+63,Retail_Store_63,Express,South Kristinefurt,Virginia,East,26866,Tyler Farmer,2018-03-19
+64,Retail_Store_64,Mall,New Michaelstad,Virginia,West,69665,Theresa Jones,2023-06-22
+65,Retail_Store_65,Outlet,East Jaclyn,Texas,West,12595,David Carter,2016-08-20
+66,Retail_Store_66,Outlet,Cherylmouth,Ohio,North,31634,Cheryl Marshall,2020-07-12
+67,Retail_Store_67,Mall,Lake William,Colorado,Central,93490,Justin Long,2018-08-13
+68,Retail_Store_68,Flagship,Stacyburgh,West Virginia,East,81778,Jennifer Phillips,2019-10-12
+69,Retail_Store_69,Supermarket,Lake Mathew,Texas,West,01683,Gregory Sweeney,2022-10-23
+70,Retail_Store_70,Express,Whitneyville,New Jersey,Central,62507,Daniel Wright,2018-11-03
+71,Retail_Store_71,Express,Fisherfort,Vermont,Central,46799,Phillip Olson,2016-11-12
+72,Retail_Store_72,Flagship,East Bradleyport,Florida,North,16152,Candace Good,2021-06-12
+73,Retail_Store_73,Supermarket,Blankenshipmouth,Virginia,North,31014,Jeffrey Pollard,2018-03-11
+74,Retail_Store_74,Mall,Lake Lauramouth,Oregon,South,29029,Dana Lee,2017-03-12
+75,Retail_Store_75,Flagship,Thomasside,West Virginia,Central,54321,Jerry Williams,2018-08-05
+76,Retail_Store_76,Mall,East Suzanne,Mississippi,West,44774,Jared Woodward,2017-09-02
+77,Retail_Store_77,Supermarket,Stonetown,Nebraska,Central,41674,Susan Flores,2019-11-08
+78,Retail_Store_78,Express,Joneschester,Pennsylvania,East,23842,Rhonda Bennett,2020-09-28
+79,Retail_Store_79,Express,Michaelbury,South Dakota,Central,32979,Jennifer Ruiz,2024-11-19
+80,Retail_Store_80,Express,Lake Gina,Colorado,Central,64573,Michael Terry,2022-05-12
+81,Retail_Store_81,Flagship,East Chelseafort,Louisiana,East,66165,Denise Reed,2021-12-05
+82,Retail_Store_82,Outlet,South Bethany,Idaho,South,35816,Lisa Lane,2024-04-27
+83,Retail_Store_83,Supermarket,Brandimouth,Alaska,East,08373,Ashley Arnold,2022-03-25
+84,Retail_Store_84,Flagship,Lawrencestad,Vermont,South,43772,Adam Maynard,2017-03-12
+85,Retail_Store_85,Flagship,West Melissa,New Jersey,North,42176,Crystal Glass,2019-04-14
+86,Retail_Store_86,Mall,Lunafort,Vermont,Central,62351,David Clarke,2022-09-15
+87,Retail_Store_87,Mall,Guerrerohaven,Alaska,South,55029,Kelly Lara,2016-10-27
+88,Retail_Store_88,Express,Murraychester,South Dakota,South,56021,Alexander Nielsen,2017-01-30
+89,Retail_Store_89,Mall,Sanchezton,New Jersey,West,72778,Anna Parsons,2024-02-23
+90,Retail_Store_90,Flagship,Calhounborough,New Hampshire,North,24377,Barbara Adkins,2020-03-02
+91,Retail_Store_91,Supermarket,East Carol,South Dakota,West,82367,Ellen Harris,2018-09-04
+92,Retail_Store_92,Supermarket,Nathanborough,New Mexico,West,57566,Francisco Cardenas,2016-09-24
+93,Retail_Store_93,Express,Lake Wendy,Missouri,Central,72571,Steven Jones,2023-08-04
+94,Retail_Store_94,Supermarket,Port Michaelfort,New Mexico,East,48884,Kayla Reeves,2024-06-11
+95,Retail_Store_95,Mall,Amyshire,Georgia,South,60497,James Anderson,2025-01-04
+96,Retail_Store_96,Express,East Kaylamouth,Wisconsin,North,04627,Grace Shaw,2023-01-20
+97,Retail_Store_97,Express,Andersonmouth,Oklahoma,North,03933,Scott Davis,2019-01-21
+98,Retail_Store_98,Mall,Deborahmouth,Missouri,East,60130,Thomas Benson,2016-06-03
+99,Retail_Store_99,Flagship,Lake Sophiafurt,Iowa,Central,81241,Richard Adkins,2016-11-04
+100,Retail_Store_100,Mall,Saraberg,Massachusetts,North,26709,Rhonda Williams,2024-11-09

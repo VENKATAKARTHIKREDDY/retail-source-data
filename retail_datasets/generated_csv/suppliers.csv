@@ -1,0 +1,51 @@
+supplier_id,supplier_name,contact_name,email,phone,city,country,supplier_type,rating
+1,Baldwin Ltd,Stephen Berg,scottchristensen@example.net,409.993.5690x1423,Bruceton,USA,Manufacturer,3.4
+2,Bennett LLC,Frederick Hawkins,jamesrichmond@example.com,001-239-434-2348,Lake Jillian,USA,Wholesaler,2.9
+3,Gilbert Group,Judith Sanders,michael89@example.org,001-925-953-7231x4185,South Fernandomouth,USA,Wholesaler,3.1
+4,"Berry, Morris and Lara",Mr. John Robertson,donnarivera@example.org,321.665.4172x059,Christopherstad,USA,Distributor,2.9
+5,"Black, Spencer and Stevens",Mark Page MD,joseyoung@example.org,001-932-668-3829x89389,Suarezfurt,USA,Distributor,4.1
+6,Reeves-Acosta,Curtis Clay,david55@example.org,001-263-502-1230x176,Katelynberg,USA,Manufacturer,4.2
+7,"Porter, Guerra and Ellison",Aaron Ortiz,emily64@example.com,9406760711,East Amber,USA,Manufacturer,3.3
+8,David-Chandler,Grace Cooper,sherri49@example.net,(737)615-3177,Blackwellborough,USA,Wholesaler,3.0
+9,Hutchinson-Obrien,Michael Crane,jameskatie@example.org,+1-817-825-3117x2021,Jasonberg,USA,Manufacturer,4.7
+10,"Chan, Franco and Jimenez",Anthony Cameron,xglover@example.org,+1-494-511-4855x7236,Jordanview,USA,Wholesaler,4.5
+11,Friedman-Miller,Courtney Thompson,paul32@example.com,9827077727,North Davidborough,USA,Wholesaler,3.2
+12,Brown Inc,Joshua Burnett,jmorales@example.org,(592)811-4597,Lake Antonio,USA,Manufacturer,2.6
+13,"Kelly, Jones and Jenkins",Philip House,anthonywilkerson@example.org,7107260658,Karenfurt,USA,Distributor,3.0
+14,Neal-Brown,Olivia Martinez,kyleclark@example.com,764.298.4959,Lake Jeffery,USA,Manufacturer,4.7
+15,Cunningham-Ewing,Stephanie Bailey,kimberlynelson@example.net,+1-676-280-0052x234,East Krista,USA,Distributor,3.0
+16,Archer-Thompson,Tonya Taylor,qkennedy@example.org,810.690.8667x5143,Brewerside,USA,Distributor,3.6
+17,Smith Inc,Jonathan Banks,gregmiller@example.com,(480)897-8443,Port Amy,USA,Manufacturer,3.9
+18,Yu and Sons,Tony Wells,fhart@example.org,+1-604-358-6242x18742,New Alexander,USA,Distributor,4.3
+19,"Rich, Walker and Bowman",Jonathan Bailey,isandoval@example.net,833.738.8528x076,South Lisa,USA,Manufacturer,4.5
+20,White-Soto,Charles Douglas,jeffrey18@example.com,758.336.8830,West Shellybury,USA,Manufacturer,4.7
+21,Boyd LLC,Geoffrey Beck,xcoleman@example.com,001-389-757-5824x561,South Ricky,USA,Distributor,3.0
+22,Wilson PLC,Linda Moore,thomas51@example.net,408.853.1877x55446,New Brianfurt,USA,Wholesaler,4.6
+23,"Cox, Scott and Duarte",Morgan Dorsey,samanthamonroe@example.org,001-881-853-7583x2890,Miamouth,USA,Manufacturer,3.5
+24,"Booth, Moody and Howard",Brandon Lewis,andreajohnson@example.org,379-775-7670,East Angelaburgh,USA,Wholesaler,4.2
+25,Thompson and Sons,Beverly Brown,katrina28@example.org,793-236-5660,Wesleyberg,USA,Wholesaler,4.5
+26,"Ford, Ball and Williams",Janet Gonzalez,perkinsmichelle@example.org,293.985.2434x575,North Meganburgh,USA,Distributor,4.7
+27,Reyes-Finley,Kyle Gutierrez,relliott@example.com,644.763.5064,Port Michael,USA,Manufacturer,4.1
+28,"Potter, Sanchez and Wood",Michael Martinez,garcialance@example.net,592.753.6191x730,East Arthur,USA,Wholesaler,4.1
+29,"Christensen, Kirby and Martin",Karen Smith,smithjoshua@example.org,+1-490-753-3806,Lake Susan,USA,Manufacturer,3.8
+30,Cochran-Sutton,Kelly Martin,arthurelliott@example.net,+1-718-637-5829x7262,Port James,USA,Manufacturer,4.5
+31,Wilson Inc,Rebekah Thompson,osmith@example.net,+1-636-861-5605x523,Seanborough,USA,Wholesaler,3.9
+32,"Glass, Moore and Johnson",Tabitha Harrell,pagenathaniel@example.com,+1-212-982-5286x932,West Kyliemouth,USA,Wholesaler,4.7
+33,Serrano Ltd,Richard Flores,rmills@example.com,4709473325,East Emily,USA,Manufacturer,4.0
+34,Ramos Inc,Ruth Williams,amanda35@example.net,+1-988-258-2396x3563,South Douglas,USA,Wholesaler,4.7
+35,"Price, Lee and Juarez",Sean Mitchell,rivaselijah@example.com,+1-397-511-6794x399,Johnmouth,USA,Wholesaler,3.2
+36,"Knox, Willis and Moss",Nicole Huynh,lesteremily@example.net,519.460.5527,North Brandon,USA,Wholesaler,3.0
+37,"Lutz, Morrison and Juarez",Nicole Hill,paulespinoza@example.net,230-567-3943x191,East Sharonshire,USA,Manufacturer,5.0
+38,Flores PLC,Frank Welch,hunterflores@example.com,7256916625,Dicksonborough,USA,Manufacturer,3.1
+39,"Holder, Burke and Williams",Lori Hardin,natalie35@example.org,(364)366-1201x244,West Jeremyshire,USA,Distributor,4.6
+40,Martinez-Torres,Angela Stanley,mackenzienixon@example.net,+1-550-665-3553,Port Thomasfort,USA,Distributor,3.1
+41,"Wells, Ray and Drake",Matthew Watson,kelsey27@example.com,001-503-307-3907,Baldwinmouth,USA,Distributor,2.6
+42,"Rios, Collins and Hampton",Marie Cooper,jacksonjonathan@example.net,001-226-333-9131x6187,Adamsstad,USA,Manufacturer,4.3
+43,Duffy Group,Nina Irwin,smithashley@example.net,(602)230-1539x11782,New Darlenechester,USA,Wholesaler,3.4
+44,"Tanner, Taylor and Jacobs",Lisa Wood,xchambers@example.com,001-659-290-6267x83830,Omarmouth,USA,Manufacturer,2.8
+45,"Mitchell, Alexander and Yang",Cheyenne Keith,brooksmatthew@example.net,8887680760,Lake Teresa,USA,Wholesaler,4.2
+46,Graham-Brown,Eric Brown,vanessagomez@example.net,001-831-759-1218x9098,East Christopher,USA,Wholesaler,4.7
+47,"Lee, Hartman and Diaz",Emily Thompson,qlove@example.com,503.829.3334x63189,Valeriefurt,USA,Distributor,4.5
+48,Wilson LLC,Megan Coffey,veronicareeves@example.com,3465970987,Warrenhaven,USA,Distributor,4.0
+49,Hayden Inc,Stephanie Martin,eric96@example.net,(660)253-7614,East Charles,USA,Distributor,3.1
+50,"Cuevas, Perez and Ward",Michelle Gonzales,melissa69@example.net,488-684-9008x02444,Port Scott,USA,Manufacturer,4.8

@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost_price,launch_date
+1,T-Shirt,Fashion,Sony,1968.79,1124.98,2024-08-28
+2,Dining Table,Home,Samsung,895.82,490.67,2024-11-14
+3,T-Shirt,Fashion,Loreal,1530.48,1053.97,2023-07-28
+4,Snacks,Grocery,Nike,1969.88,1169.51,2024-07-28
+5,Lipstick,Beauty,Nestle,1742.09,1109.86,2025-03-08
+6,Curtains,Home,Lenovo,889.31,679.02,2024-12-15
+7,Rice,Grocery,Adidas,1975.69,1213.12,2025-05-03
+8,Lipstick,Beauty,Loreal,1355.73,938.3,2026-04-19
+9,Milk,Grocery,Nike,1174.74,875.93,2025-05-12
+10,Sofa,Home,Nestle,1585.04,1128.59,2024-03-07
+11,Curtains,Home,Loreal,32.31,18.34,2025-05-18
+12,Shampoo,Beauty,Adidas,917.04,601.8,2025-09-24
+13,T-Shirt,Fashion,Apple,484.7,356.26,2025-08-25
+14,Face Wash,Beauty,Nike,123.7,80.3,2025-07-31
+15,Milk,Grocery,Adidas,631.91,327.62,2025-08-12
+16,T-Shirt,Fashion,Sony,89.69,46.03,2023-12-20
+17,Coffee,Grocery,LG,622.93,376.08,2025-10-05
+18,Shampoo,Beauty,Nike,808.58,467.91,2024-01-20
+19,Smart Watch,Electronics,Adidas,632.74,449.22,2024-12-13
+20,Jacket,Fashion,Loreal,1533.13,952.53,2024-03-03
+21,Smart Watch,Electronics,Dell,422.0,228.61,2024-01-29
+22,Coffee,Grocery,Apple,953.07,573.9,2026-02-15
+23,Smart Watch,Electronics,Dell,1192.66,768.48,2026-05-12
+24,Tablet,Electronics,Loreal,195.36,142.74,2024-01-22
+25,Laptop,Electronics,LG,525.16,308.84,2024-06-13
+26,Jacket,Fashion,Samsung,462.21,253.6,2024-07-16
+27,Chair,Home,Lenovo,885.02,683.06,2025-08-23
+28,Curtains,Home,Adidas,739.01,405.84,2024-10-31
+29,Bread,Grocery,LG,992.22,670.05,2025-01-23
+30,Jacket,Fashion,Apple,850.05,455.17,2025-02-09
+31,Rice,Grocery,Apple,294.05,163.14,2023-11-07
+32,Jacket,Fashion,Puma,801.36,453.66,2024-05-20
+33,Jeans,Fashion,Samsung,1890.48,995.02,2025-10-22
+34,Snacks,Grocery,Samsung,716.76,450.42,2025-01-06
+35,Lamp,Home,Nestle,1189.7,886.96,2026-01-03
+36,Milk,Grocery,Puma,450.05,335.91,2025-02-28
+37,Bread,Grocery,Nestle,1046.38,662.05,2025-08-26
+38,Hoodie,Fashion,Puma,1082.03,579.87,2024-06-20
+39,Body Lotion,Beauty,Dell,824.74,428.3,2026-03-30
+40,Dining Table,Home,Adidas,555.51,364.67,2026-02-19
+41,Face Wash,Beauty,Puma,1837.93,1230.35,2023-05-26
+42,Jeans,Fashion,LG,1976.94,1156.4,2026-03-24
+43,Headphones,Electronics,Nestle,1567.18,1209.83,2024-01-04
+44,Sofa,Home,Apple,1117.71,583.52,2024-12-03
+45,Shoes,Fashion,Nike,1925.37,1303.73,2026-03-15
+46,Sofa,Home,Apple,215.7,168.41,2025-09-21
+47,Face Wash,Beauty,Nike,1622.02,823.18,2026-04-19
+48,Tablet,Electronics,Apple,1151.72,779.07,2025-04-16
+49,Curtains,Home,LG,203.78,132.49,2024-10-27
+50,Tablet,Electronics,Loreal,151.71,92.12,2023-07-30
+51,Jacket,Fashion,LG,473.52,321.91,2025-06-25
+52,Rice,Grocery,Apple,1815.2,1418.02,2024-01-23
+53,Shampoo,Beauty,Lenovo,1687.32,891.68,2024-06-19
+54,Snacks,Grocery,Loreal,1548.9,928.46,2025-11-21
+55,Face Wash,Beauty,Nike,809.42,620.62,2024-11-21
+56,Face Wash,Beauty,Lenovo,1881.6,1412.46,2025-01-29
+57,Mobile,Electronics,Lenovo,1986.82,1167.68,2024-04-10
+58,Milk,Grocery,Adidas,670.75,417.23,2024-08-21
+59,Laptop,Electronics,Adidas,1394.32,1073.83,2024-12-18
+60,Headphones,Electronics,Lenovo,76.41,39.49,2025-07-19
+61,Sofa,Home,Sony,1096.66,748.11,2023-09-11
+62,Shoes,Fashion,Adidas,34.23,17.35,2025-04-17
+63,Sofa,Home,Loreal,1845.39,1202.66,2026-03-16
+64,Shoes,Fashion,Samsung,881.44,500.57,2023-12-13
+65,Face Wash,Beauty,Lenovo,1229.85,972.19,2026-01-27
+66,Bread,Grocery,LG,956.17,533.52,2026-02-12
+67,Perfume,Beauty,Dell,32.94,21.84,2025-09-22
+68,Hoodie,Fashion,Dell,877.58,584.86,2023-12-23
+69,Perfume,Beauty,Apple,814.31,591.12,2025-01-31
+70,Shoes,Fashion,Sony,688.28,506.01,2023-08-14
+71,Shampoo,Beauty,Samsung,466.78,258.51,2024-02-20
+72,Sofa,Home,Adidas,783.19,528.53,2024-07-10
+73,Hoodie,Fashion,Sony,1418.29,1069.63,2024-09-16
+74,Rice,Grocery,Nestle,1291.8,765.9,2024-01-08
+75,Mobile,Electronics,Dell,1322.4,742.44,2023-07-20
+76,Chair,Home,Lenovo,576.23,379.02,2024-04-14
+77,Bread,Grocery,Nestle,1315.7,690.58,2024-05-01
+78,Face Wash,Beauty,Adidas,342.41,229.07,2024-06-20
+79,Jeans,Fashion,Puma,1907.67,1273.88,2025-08-31
+80,Jacket,Fashion,Samsung,1219.39,849.81,2026-01-08
+81,Chair,Home,Samsung,1276.46,825.44,2025-05-05
+82,Lamp,Home,Loreal,167.33,126.69,2025-04-03
+83,Mobile,Electronics,LG,497.06,259.94,2024-10-03
+84,Jacket,Fashion,Loreal,1673.25,1093.08,2023-12-29
+85,Curtains,Home,Apple,475.32,274.92,2023-08-20
+86,Lamp,Home,Puma,1588.54,1256.95,2024-09-05
+87,Perfume,Beauty,Dell,710.48,445.83,2026-01-28
+88,Rice,Grocery,Adidas,1705.34,1340.99,2024-10-01
+89,Body Lotion,Beauty,Apple,64.19,51.34,2024-02-18
+90,Smart Watch,Electronics,Samsung,1987.37,1410.73,2023-07-04
+91,Dining Table,Home,Sony,922.95,470.51,2024-04-08
+92,Body Lotion,Beauty,Nike,1986.61,1408.49,2024-03-28
+93,Hoodie,Fashion,Apple,1732.89,906.57,2025-06-19
+94,Smart Watch,Electronics,Lenovo,1978.65,1508.06,2023-07-10
+95,Sofa,Home,Nike,1422.15,874.8,2025-01-12
+96,Smart Watch,Electronics,Samsung,264.01,140.99,2024-12-23
+97,Shoes,Fashion,Samsung,543.22,406.42,2025-04-07
+98,Snacks,Grocery,Dell,794.27,562.8,2024-04-01
+99,Chair,Home,LG,1514.78,1176.81,2024-07-11
+100,Shoes,Fashion,Loreal,1619.23,1212.88,2026-02-09
+101,Face Wash,Beauty,Sony,405.8,272.71,2026-02-17
+102,T-Shirt,Fashion,Adidas,1848.69,1354.27,2026-01-25
+103,Mobile,Electronics,Sony,1218.82,752.36,2026-03-27
+104,Headphones,Electronics,Nike,364.14,256.74,2023-09-06
+105,Hoodie,Fashion,Adidas,1879.95,950.92,2024-05-30
+106,Curtains,Home,Dell,566.17,350.17,2025-07-18
+107,Smart Watch,Electronics,Sony,1211.96,795.5,2024-05-22
+108,Jacket,Fashion,Nike,1539.28,1225.59,2025-11-30
+109,T-Shirt,Fashion,Nestle,838.92,523.6,2024-04-26
+110,Dining Table,Home,LG,816.02,523.8,2024-11-24
+111,Curtains,Home,Apple,1329.75,1054.7,2025-03-16
+112,Milk,Grocery,Dell,21.41,11.01,2026-01-27
+113,Mobile,Electronics,Puma,1029.91,763.27,2026-03-05
+114,Perfume,Beauty,Apple,1655.19,893.36,2023-11-11
+115,Mobile,Electronics,Sony,1747.45,1150.0,2025-08-06
+116,Hoodie,Fashion,Nike,1236.94,723.5,2024-03-03
+117,Body Lotion,Beauty,Apple,1476.26,824.29,2025-05-25
+118,Coffee,Grocery,Nestle,318.18,226.12,2025-08-01
+119,Body Lotion,Beauty,Sony,453.49,297.05,2025-12-23
+120,Sofa,Home,Loreal,381.23,241.36,2025-06-14
+121,Laptop,Electronics,LG,1579.24,872.7,2023-10-14
+122,Sofa,Home,Samsung,1364.46,955.48,2024-02-06
+123,Laptop,Electronics,Lenovo,1121.22,793.16,2024-03-24
+124,Lipstick,Beauty,Nestle,1801.82,1387.75,2024-01-21
+125,T-Shirt,Fashion,Dell,1070.73,610.0,2024-06-24
+126,Mobile,Electronics,Nike,1447.82,841.28,2024-01-04
+127,Chair,Home,Sony,471.07,347.22,2025-04-19
+128,Curtains,Home,Adidas,255.27,165.94,2023-10-30
+129,Body Lotion,Beauty,Puma,221.29,137.93,2023-08-02
+130,Bread,Grocery,Nike,1260.88,786.86,2024-08-19
+131,Mobile,Electronics,Nestle,233.0,161.72,2024-03-16
+132,Curtains,Home,Loreal,557.58,374.59,2023-07-04
+133,Lipstick,Beauty,Sony,423.9,284.33,2024-10-30
+134,Smart Watch,Electronics,Sony,1141.08,908.53,2024-01-11
+135,Dining Table,Home,Lenovo,1040.03,777.54,2026-02-20
+136,Mobile,Electronics,Puma,1607.42,1178.68,2023-12-23
+137,Snacks,Grocery,Dell,637.56,321.69,2025-04-15
+138,Coffee,Grocery,Lenovo,1957.5,1530.2,2026-01-29
+139,Smart Watch,Electronics,Apple,1121.38,769.3,2023-06-10
+140,Hoodie,Fashion,Loreal,902.78,533.64,2025-12-22
+141,Jeans,Fashion,Samsung,1989.63,1268.61,2024-08-24
+142,T-Shirt,Fashion,Loreal,1580.13,998.1,2024-03-27
+143,Rice,Grocery,Loreal,1912.19,1174.71,2024-05-16
+144,Tablet,Electronics,Nestle,433.05,224.93,2024-02-05
+145,Snacks,Grocery,Apple,158.52,117.76,2025-11-25
+146,Jacket,Fashion,Loreal,247.83,185.33,2025-06-30
+147,Jacket,Fashion,Dell,1168.34,678.71,2025-11-02
+148,Milk,Grocery,Sony,1269.65,683.46,2026-03-18
+149,Mobile,Electronics,Apple,861.39,547.27,2025-01-10
+150,Curtains,Home,Sony,224.87,157.63,2024-06-15
+151,Jeans,Fashion,Nike,1911.29,1268.34,2026-05-07
+152,T-Shirt,Fashion,Loreal,515.76,291.96,2024-02-21
+153,Hoodie,Fashion,Loreal,33.17,17.89,2026-05-01
+154,Curtains,Home,Adidas,1829.98,1428.17,2024-04-16
+155,Bread,Grocery,Adidas,706.95,475.22,2025-04-09
+156,Laptop,Electronics,Nike,818.15,577.05,2024-02-17
+157,Perfume,Beauty,Sony,489.82,381.6,2025-07-29
+158,Coffee,Grocery,LG,971.3,663.19,2024-05-11
+159,Body Lotion,Beauty,Sony,715.87,505.2,2024-01-23
+160,Sofa,Home,Loreal,125.72,97.35,2023-09-06
+161,Bread,Grocery,Apple,326.75,207.09,2024-02-01
+162,Body Lotion,Beauty,Samsung,715.28,559.39,2024-04-02
+163,Laptop,Electronics,Dell,1696.07,1141.42,2025-12-29
+164,Snacks,Grocery,Adidas,10.35,5.31,2024-02-13
+165,Mobile,Electronics,Nike,1750.23,877.5,2024-03-28
+166,Tablet,Electronics,Nestle,419.91,267.31,2025-07-02
+167,Face Wash,Beauty,Puma,1359.25,953.66,2024-02-17
+168,Smart Watch,Electronics,Apple,344.8,263.08,2025-05-12
+169,Shoes,Fashion,Sony,397.46,217.59,2023-10-05
+170,Snacks,Grocery,Loreal,1271.6,639.62,2024-08-06
+171,Shoes,Fashion,Puma,1297.9,661.98,2024-07-27
+172,Snacks,Grocery,Loreal,503.8,370.21,2026-03-18
+173,Shoes,Fashion,Sony,245.07,186.77,2023-08-31
+174,Sofa,Home,Nestle,906.81,514.09,2023-05-29
+175,Headphones,Electronics,Sony,1988.1,1472.75,2026-01-28
+176,Headphones,Electronics,Nike,1582.43,1099.05,2026-03-27
+177,Chair,Home,Sony,197.09,145.84,2026-02-03
+178,Shoes,Fashion,Dell,695.29,359.63,2023-09-26
+179,Curtains,Home,Apple,142.77,77.0,2025-05-26
+180,Rice,Grocery,Puma,172.91,115.2,2024-05-08
+181,Jeans,Fashion,Sony,1280.45,931.52,2023-07-02
+182,Headphones,Electronics,Lenovo,144.68,105.3,2025-04-12
+183,Laptop,Electronics,Lenovo,726.86,439.1,2024-11-12
+184,Lamp,Home,Nestle,520.25,382.34,2023-07-19
+185,Sofa,Home,Puma,146.6,94.74,2026-04-23
+186,Mobile,Electronics,Dell,1557.68,893.31,2024-12-16
+187,Dining Table,Home,LG,129.64,90.67,2024-05-14
+188,Smart Watch,Electronics,Apple,1331.47,675.09,2025-01-28
+189,Laptop,Electronics,Apple,518.24,285.44,2025-10-11
+190,Laptop,Electronics,Apple,1734.32,1179.55,2025-03-12
+191,Curtains,Home,Sony,1415.28,1111.2,2023-10-17
+192,Shoes,Fashion,Loreal,1722.8,1213.05,2024-03-16
+193,Smart Watch,Electronics,Nestle,42.03,28.99,2024-08-07
+194,Shoes,Fashion,Nike,1178.12,662.93,2026-02-05
+195,Jeans,Fashion,Samsung,232.31,161.18,2023-08-02
+196,Jacket,Fashion,Samsung,758.55,555.48,2024-10-28
+197,Snacks,Grocery,Loreal,1634.32,1022.07,2024-12-11
+198,Perfume,Beauty,Puma,638.75,367.43,2025-08-05
+199,Lamp,Home,Puma,983.2,602.3,2024-12-10
+200,Lamp,Home,Nestle,1686.83,1311.06,2023-06-03
+201,Snacks,Grocery,Puma,1038.75,799.16,2025-05-23
+202,Lamp,Home,Nike,588.51,426.28,2024-04-18
+203,Sofa,Home,Puma,1809.52,916.62,2023-08-19
+204,Curtains,Home,Adidas,388.6,236.17,2023-07-05
+205,Lamp,Home,Nike,147.88,99.45,2024-11-02
+206,T-Shirt,Fashion,Loreal,170.45,110.46,2024-05-30
+207,Chair,Home,Adidas,1484.48,870.78,2025-10-11
+208,Hoodie,Fashion,Lenovo,465.35,371.77,2024-10-19
+209,Lipstick,Beauty,Puma,1391.78,737.68,2023-09-11
+210,Hoodie,Fashion,Apple,370.3,237.23,2023-08-24
+211,Jacket,Fashion,Sony,1487.64,1137.74,2025-07-23
+212,Tablet,Electronics,Adidas,321.61,252.17,2023-05-31
+213,Headphones,Electronics,Puma,960.01,759.91,2023-08-10
+214,Rice,Grocery,Dell,1006.89,685.9,2026-02-06
+215,Body Lotion,Beauty,Sony,519.23,371.12,2023-10-15
+216,Lamp,Home,Adidas,1014.0,674.12,2024-11-10
+217,Milk,Grocery,Nike,1385.39,747.31,2024-11-17
+218,Dining Table,Home,Loreal,1497.31,801.82,2025-01-14
+219,Perfume,Beauty,Apple,1638.41,1174.59,2024-04-14
+220,Mobile,Electronics,Adidas,841.72,553.71,2025-11-11
+221,T-Shirt,Fashion,LG,1052.8,632.73,2023-07-08
+222,Shampoo,Beauty,Lenovo,739.61,378.0,2023-12-07
+223,Hoodie,Fashion,Puma,1824.3,1214.34,2025-12-10
+224,Chair,Home,Samsung,568.92,416.65,2025-10-18
+225,Hoodie,Fashion,Dell,1595.72,1094.29,2025-04-22
+226,Rice,Grocery,Loreal,1865.53,1210.59,2026-03-27
+227,Shoes,Fashion,Lenovo,593.81,299.68,2024-11-15
+228,Smart Watch,Electronics,Apple,1272.93,748.14,2024-12-26
+229,Bread,Grocery,Nestle,596.57,451.17,2026-01-01
+230,Shoes,Fashion,Nike,589.61,395.18,2025-03-01
+231,Tablet,Electronics,Nike,911.09,681.42,2023-09-10
+232,Headphones,Electronics,Nestle,1060.82,801.84,2025-10-06
+233,Jacket,Fashion,Lenovo,678.34,396.57,2026-03-04
+234,Shoes,Fashion,Lenovo,847.77,456.81,2024-07-03
+235,Coffee,Grocery,Nestle,790.72,441.21,2025-05-17
+236,Headphones,Electronics,Nestle,803.52,420.31,2024-02-25
+237,Dining Table,Home,Dell,1998.19,1015.13,2025-01-30
+238,Coffee,Grocery,Nestle,991.25,724.25,2025-08-24
+239,Lipstick,Beauty,Samsung,255.63,187.97,2024-11-13
+240,Curtains,Home,Samsung,1176.51,703.32,2025-05-16
+241,Face Wash,Beauty,Lenovo,1463.85,1166.49,2023-08-30
+242,Shampoo,Beauty,Loreal,1225.48,780.65,2023-06-18
+243,Snacks,Grocery,Puma,817.32,568.79,2024-04-26
+244,Shampoo,Beauty,LG,1402.31,747.72,2024-10-22
+245,Chair,Home,Apple,1606.01,1106.27,2025-08-12
+246,Bread,Grocery,Apple,997.96,530.96,2025-03-27
+247,Jeans,Fashion,Samsung,1278.5,643.02,2025-01-11
+248,Smart Watch,Electronics,Apple,1820.13,1228.64,2024-08-23
+249,Hoodie,Fashion,Nike,1383.01,1074.24,2023-11-15
+250,Lamp,Home,LG,1471.11,862.74,2024-11-21
+251,Jeans,Fashion,Nestle,792.34,556.58,2025-02-14
+252,Curtains,Home,Dell,1311.87,806.08,2024-12-12
+253,Tablet,Electronics,Lenovo,415.61,321.22,2024-12-11
+254,Rice,Grocery,Apple,950.85,574.73,2023-10-15
+255,Sofa,Home,Apple,1441.65,1054.5,2025-12-29
+256,Snacks,Grocery,Samsung,95.88,59.05,2023-06-06
+257,Rice,Grocery,Samsung,330.71,199.63,2024-11-02
+258,Snacks,Grocery,Lenovo,1192.23,852.34,2024-09-27
+259,Milk,Grocery,Lenovo,392.37,217.38,2024-03-08
+260,Bread,Grocery,Dell,630.87,381.73,2024-09-24
+261,Rice,Grocery,Apple,1391.71,728.08,2024-08-23
+262,Snacks,Grocery,Lenovo,1986.47,1054.63,2024-05-01
+263,Perfume,Beauty,Sony,794.69,460.96,2025-03-17
+264,Hoodie,Fashion,Sony,699.1,553.88,2025-01-19
+265,Shampoo,Beauty,Puma,1395.9,870.74,2025-05-06
+266,Chair,Home,Sony,1024.47,674.02,2025-09-05
+267,Lamp,Home,Samsung,919.75,734.41,2024-11-18
+268,T-Shirt,Fashion,Sony,1411.3,918.05,2025-07-23
+269,Bread,Grocery,Apple,343.55,185.41,2024-04-11
+270,Jeans,Fashion,Samsung,1857.41,946.73,2025-01-15
+271,Snacks,Grocery,Puma,51.68,38.75,2026-01-15
+272,Sofa,Home,Samsung,332.47,221.66,2024-06-30
+273,Rice,Grocery,Nestle,1061.38,642.79,2023-07-27
+274,Shoes,Fashion,LG,1038.09,524.18,2024-06-10
+275,Shampoo,Beauty,Adidas,164.15,93.26,2025-04-15
+276,Milk,Grocery,Nike,1422.19,886.67,2024-02-18
+277,Perfume,Beauty,Loreal,1744.63,1270.65,2024-12-17
+278,Dining Table,Home,Nestle,1710.22,928.32,2025-06-27
+279,Tablet,Electronics,LG,1873.75,1485.46,2024-09-22
+280,Face Wash,Beauty,Nestle,1422.7,986.94,2026-01-29
+281,Perfume,Beauty,Samsung,1781.46,1143.45,2024-07-20
+282,Smart Watch,Electronics,Puma,1067.98,817.58,2025-07-19
+283,Tablet,Electronics,Adidas,1566.55,1084.55,2025-09-12
+284,Shampoo,Beauty,Loreal,1386.09,1101.8,2023-08-26
+285,Laptop,Electronics,Lenovo,1969.85,1169.71,2026-04-11
+286,Hoodie,Fashion,Nike,346.19,276.91,2025-05-11
+287,Jacket,Fashion,Lenovo,757.7,541.31,2024-09-06
+288,Body Lotion,Beauty,Lenovo,1849.32,1148.86,2025-09-11
+289,Shoes,Fashion,Sony,946.76,754.04,2026-01-15
+290,Smart Watch,Electronics,Apple,101.67,73.79,2024-10-15
+291,Hoodie,Fashion,Lenovo,1924.22,1282.99,2024-04-06
+292,Headphones,Electronics,Samsung,34.65,19.91,2026-02-25
+293,Shoes,Fashion,Lenovo,973.06,694.3,2024-01-14
+294,Perfume,Beauty,Nike,1839.22,1284.89,2023-10-04
+295,Face Wash,Beauty,Nestle,1058.56,635.56,2023-11-02
+296,Mobile,Electronics,Nike,399.41,298.53,2024-08-07
+297,Lipstick,Beauty,Dell,819.57,455.38,2025-08-25
+298,Jacket,Fashion,Lenovo,1453.25,1044.15,2024-08-30
+299,Shampoo,Beauty,Nike,181.83,105.33,2024-02-22
+300,Jeans,Fashion,LG,287.75,190.24,2023-07-25
+301,T-Shirt,Fashion,Dell,1721.07,1367.95,2026-03-30
+302,Snacks,Grocery,Apple,462.42,300.35,2024-06-14
+303,Body Lotion,Beauty,Sony,1407.87,773.24,2024-09-16
+304,Lamp,Home,Puma,545.21,316.32,2024-07-25
+305,Chair,Home,Loreal,1443.73,1140.66,2026-02-15
+306,Smart Watch,Electronics,Puma,659.21,470.13,2024-10-30
+307,Bread,Grocery,Samsung,798.69,592.91,2023-10-08
+308,Shampoo,Beauty,Nestle,1379.32,984.63,2024-11-13
+309,Face Wash,Beauty,LG,1664.41,1252.85,2025-05-17
+310,Laptop,Electronics,Loreal,947.46,518.59,2023-12-28
+311,Lamp,Home,Adidas,261.16,192.59,2026-05-10
+312,Sofa,Home,Nike,623.05,332.35,2023-08-27
+313,Jacket,Fashion,Loreal,141.92,110.97,2024-03-17
+314,Dining Table,Home,Nike,1595.02,1190.67,2024-02-17
+315,Curtains,Home,Sony,1077.59,796.99,2024-06-26
+316,Coffee,Grocery,Samsung,655.18,344.59,2024-10-08
+317,Curtains,Home,Loreal,1881.79,1365.52,2024-04-28
+318,Lamp,Home,Loreal,1739.99,1022.33,2024-07-28
+319,Milk,Grocery,Apple,1323.11,698.07,2025-03-21
+320,Shampoo,Beauty,Nestle,400.55,249.95,2026-04-27
+321,Lamp,Home,LG,1866.68,953.64,2024-12-30
+322,T-Shirt,Fashion,LG,709.94,416.69,2024-02-13
+323,Smart Watch,Electronics,Loreal,1358.85,713.8,2024-05-24
+324,Sofa,Home,Puma,1109.82,690.63,2025-04-28
+325,Tablet,Electronics,Nike,1235.27,782.72,2025-05-02
+326,Body Lotion,Beauty,Nike,1842.18,1432.23,2025-09-09
+327,Lamp,Home,Puma,94.39,64.24,2025-11-24
+328,Lipstick,Beauty,Sony,1275.86,719.64,2023-12-02
+329,Snacks,Grocery,Puma,889.45,656.67,2023-08-15
+330,Body Lotion,Beauty,Puma,1233.5,889.27,2025-10-31
+331,Jacket,Fashion,Nestle,606.98,470.21,2025-12-01
+332,Laptop,Electronics,Samsung,1080.21,834.38,2023-09-18
+333,Chair,Home,Samsung,1996.78,1561.21,2025-05-18
+334,Snacks,Grocery,LG,1551.72,1231.64,2025-09-11
+335,Smart Watch,Electronics,LG,1916.78,1436.44,2024-10-31
+336,Shoes,Fashion,Nike,1617.18,1222.31,2024-12-02
+337,Shoes,Fashion,Nike,183.01,144.49,2025-11-21
+338,Bread,Grocery,LG,326.37,178.09,2024-06-07
+339,Rice,Grocery,Lenovo,1845.15,1188.5,2023-10-28
+340,Shampoo,Beauty,LG,1079.25,780.71,2024-02-11
+341,Rice,Grocery,Dell,297.08,219.24,2026-05-16
+342,Hoodie,Fashion,Apple,139.33,105.76,2025-11-30
+343,Shampoo,Beauty,Loreal,1826.91,1122.46,2025-06-23
+344,T-Shirt,Fashion,Apple,1042.08,720.19,2023-10-10
+345,Tablet,Electronics,Lenovo,1586.78,1219.64,2024-12-07
+346,Sofa,Home,Apple,837.81,441.02,2025-06-19
+347,Shoes,Fashion,Loreal,889.72,541.32,2025-12-20
+348,Laptop,Electronics,Dell,1630.64,904.38,2024-12-09
+349,Lipstick,Beauty,Sony,364.25,243.61,2025-04-20
+350,Smart Watch,Electronics,Nike,379.53,212.2,2026-01-09
+351,Jeans,Fashion,Nike,1457.52,769.93,2023-12-27
+352,Snacks,Grocery,Samsung,593.03,376.46,2024-06-25
+353,Laptop,Electronics,Sony,1830.0,1044.42,2025-08-23
+354,Jeans,Fashion,Sony,756.8,441.55,2025-09-22
+355,Lipstick,Beauty,Samsung,1326.98,740.35,2025-05-09
+356,Shoes,Fashion,Samsung,1166.19,928.12,2026-04-30
+357,Tablet,Electronics,Adidas,49.82,33.55,2024-05-13
+358,Jeans,Fashion,Sony,1299.56,945.64,2026-05-01
+359,T-Shirt,Fashion,Nestle,1881.9,1246.45,2026-05-08
+360,T-Shirt,Fashion,Puma,309.14,174.96,2025-03-16
+361,Mobile,Electronics,Apple,939.69,509.01,2024-09-18
+362,Face Wash,Beauty,Nike,1024.52,583.66,2025-03-29
+363,Shoes,Fashion,Dell,1843.88,1328.54,2026-05-19
+364,Jacket,Fashion,Puma,349.73,266.76,2025-06-08
+365,Sofa,Home,Loreal,1843.24,1088.7,2025-04-12
+366,Headphones,Electronics,Lenovo,1684.64,1223.91,2026-01-29
+367,Coffee,Grocery,Dell,290.88,164.99,2024-10-08
+368,Hoodie,Fashion,Apple,1649.52,943.27,2025-12-13
+369,Snacks,Grocery,Lenovo,970.42,653.96,2024-07-30
+370,Sofa,Home,Samsung,1613.82,880.35,2026-02-03
+371,Shoes,Fashion,Nike,1509.78,845.8,2025-08-12
+372,Perfume,Beauty,Puma,398.72,254.48,2025-06-29
+373,Dining Table,Home,Samsung,1987.38,1511.21,2023-10-09
+374,Tablet,Electronics,Sony,1546.0,1193.01,2025-10-24
+375,Mobile,Electronics,Nestle,542.78,394.63,2024-09-22
+376,Tablet,Electronics,Nike,1802.55,1215.46,2026-02-08
+377,Shampoo,Beauty,Apple,1432.75,845.0,2025-09-20
+378,Mobile,Electronics,Nike,1438.56,820.55,2025-04-29
+379,Coffee,Grocery,Dell,156.41,119.41,2026-03-13
+380,Headphones,Electronics,Samsung,665.22,362.52,2024-04-01
+381,Coffee,Grocery,Samsung,843.26,430.24,2023-08-11
+382,Shoes,Fashion,Nike,284.44,176.94,2024-06-28
+383,Lipstick,Beauty,Adidas,1379.79,726.17,2026-01-12
+384,Shampoo,Beauty,Puma,1151.5,899.2,2026-02-01
+385,Body Lotion,Beauty,Loreal,1266.07,691.63,2025-07-06
+386,Perfume,Beauty,Lenovo,794.6,404.48,2025-05-18
+387,Bread,Grocery,Lenovo,455.26,331.11,2024-11-16
+388,Coffee,Grocery,Samsung,176.9,92.01,2023-06-02
+389,Laptop,Electronics,Sony,995.23,643.92,2025-11-14
+390,Shampoo,Beauty,Nike,479.84,283.93,2023-10-25
+391,Milk,Grocery,Nestle,56.87,34.12,2023-12-30
+392,Jacket,Fashion,Sony,1268.28,1002.87,2024-08-27
+393,Mobile,Electronics,Lenovo,1554.97,793.45,2026-02-19
+394,Curtains,Home,Sony,1509.11,858.57,2024-07-31
+395,Chair,Home,Adidas,617.97,399.63,2024-04-12
+396,Rice,Grocery,Apple,70.82,53.81,2024-11-14
+397,Headphones,Electronics,LG,1606.38,1137.34,2023-12-26
+398,Rice,Grocery,Sony,1385.77,816.55,2024-04-06
+399,Curtains,Home,Dell,1557.45,916.58,2024-09-04
+400,Lipstick,Beauty,Adidas,1087.07,698.45,2024-08-21
+401,Hoodie,Fashion,Samsung,263.16,191.31,2026-01-10
+402,Jacket,Fashion,Loreal,735.51,458.28,2023-12-26
+403,Smart Watch,Electronics,Nestle,1508.85,791.64,2024-02-29
+404,Jacket,Fashion,Loreal,1427.63,832.12,2025-11-04
+405,Coffee,Grocery,Dell,1383.42,980.94,2025-07-30
+406,Dining Table,Home,Samsung,727.35,371.09,2024-04-07
+407,T-Shirt,Fashion,Lenovo,103.28,75.68,2025-10-29
+408,Hoodie,Fashion,Apple,721.99,552.45,2024-02-25
+409,Rice,Grocery,Sony,583.03,393.66,2023-07-30
+410,Rice,Grocery,Adidas,933.8,637.47,2026-05-04
+411,Jeans,Fashion,Sony,926.18,594.42,2023-07-09
+412,Dining Table,Home,LG,583.21,357.33,2024-04-10
+413,Shoes,Fashion,Dell,1691.89,962.2,2025-09-02
+414,Laptop,Electronics,Adidas,529.44,414.24,2024-01-15
+415,T-Shirt,Fashion,Nike,794.85,397.44,2025-12-15
+416,Body Lotion,Beauty,LG,1175.23,832.45,2026-04-18
+417,Lipstick,Beauty,Nike,1583.31,1063.75,2025-11-26
+418,Perfume,Beauty,Apple,17.05,11.36,2025-11-03
+419,Mobile,Electronics,Nestle,779.81,499.6,2024-12-25
+420,Coffee,Grocery,Apple,1767.12,1282.35,2024-04-10
+421,Curtains,Home,Adidas,1317.21,774.08,2025-11-24
+422,Lipstick,Beauty,Nestle,1831.21,1086.62,2025-08-12
+423,Mobile,Electronics,Lenovo,1725.18,1350.0,2025-04-01
+424,Bread,Grocery,Dell,1291.4,792.74,2024-11-01
+425,Dining Table,Home,Puma,1543.64,1202.69,2024-06-10
+426,Milk,Grocery,Sony,1593.82,1201.61,2025-01-18
+427,Jeans,Fashion,Loreal,600.06,321.09,2023-12-27
+428,Bread,Grocery,LG,1740.34,935.77,2024-10-15
+429,Tablet,Electronics,Adidas,430.07,236.38,2025-02-18
+430,Chair,Home,Sony,887.56,557.47,2025-08-24
+431,Jeans,Fashion,Nestle,1434.43,778.62,2025-06-08
+432,Jacket,Fashion,Sony,1674.44,993.48,2025-06-14
+433,Shampoo,Beauty,Nestle,156.25,119.22,2023-09-01
+434,Shampoo,Beauty,Samsung,1197.7,941.45,2023-11-19
+435,Sofa,Home,Puma,1656.34,1225.74,2024-03-31
+436,Hoodie,Fashion,Puma,1664.19,874.47,2024-05-05
+437,Mobile,Electronics,Loreal,1703.38,1329.1,2025-03-31
+438,Lipstick,Beauty,Nike,69.17,38.9,2024-01-16
+439,Body Lotion,Beauty,Nestle,669.41,493.15,2023-08-11
+440,Dining Table,Home,LG,965.43,759.01,2024-08-04
+441,Dining Table,Home,Samsung,591.7,349.67,2024-11-08
+442,Face Wash,Beauty,LG,1403.31,835.72,2023-06-16
+443,Face Wash,Beauty,Dell,523.5,309.49,2025-07-06
+444,Rice,Grocery,Dell,853.88,559.3,2024-03-12
+445,Coffee,Grocery,Puma,835.43,534.62,2025-06-22
+446,Hoodie,Fashion,Nike,1305.77,970.21,2025-04-21
+447,Mobile,Electronics,Dell,1043.14,652.35,2024-07-18
+448,Laptop,Electronics,Samsung,933.85,742.92,2024-05-22
+449,Smart Watch,Electronics,LG,570.66,381.66,2024-07-01
+450,Hoodie,Fashion,Apple,797.36,548.48,2023-12-13
+451,Milk,Grocery,Nestle,1017.09,690.9,2025-05-04
+452,Shoes,Fashion,Sony,740.92,374.37,2026-02-17
+453,Smart Watch,Electronics,Puma,423.25,280.22,2025-02-18
+454,Snacks,Grocery,Samsung,428.09,339.11,2025-04-28
+455,Mobile,Electronics,Nestle,969.24,565.07,2024-02-20
+456,Lipstick,Beauty,Lenovo,1239.94,721.88,2023-09-17
+457,Bread,Grocery,Puma,159.03,125.7,2024-11-08
+458,T-Shirt,Fashion,Loreal,329.7,256.56,2024-11-25
+459,Dining Table,Home,LG,531.5,308.76,2026-03-15
+460,Jeans,Fashion,Dell,952.1,649.91,2025-06-07
+461,Dining Table,Home,Loreal,1992.71,1279.64,2024-01-10
+462,Coffee,Grocery,Adidas,901.9,454.8,2024-06-15
+463,Body Lotion,Beauty,Adidas,45.13,29.13,2025-07-18
+464,Face Wash,Beauty,Apple,840.74,547.52,2025-09-13
+465,Mobile,Electronics,Nike,1563.52,861.79,2025-05-12
+466,Milk,Grocery,Loreal,58.04,38.0,2024-06-08
+467,Lamp,Home,Adidas,1511.93,1037.36,2023-11-21
+468,Curtains,Home,LG,633.74,397.3,2025-03-26
+469,Bread,Grocery,Dell,1048.71,588.09,2024-09-07
+470,T-Shirt,Fashion,Apple,1346.77,878.0,2024-05-10
+471,Laptop,Electronics,Sony,350.38,240.51,2024-04-15
+472,Snacks,Grocery,Nestle,1556.61,922.23,2023-08-05
+473,Lipstick,Beauty,Adidas,1798.32,1051.73,2024-08-15
+474,Jacket,Fashion,Samsung,531.24,302.3,2026-03-19
+475,Chair,Home,Nike,1668.32,1333.6,2024-05-31
+476,Face Wash,Beauty,Nestle,1946.43,1485.06,2024-08-23
+477,Smart Watch,Electronics,Apple,1978.28,1218.74,2024-10-06
+478,Mobile,Electronics,Puma,1499.19,927.31,2025-09-08
+479,Smart Watch,Electronics,Puma,463.45,259.73,2024-06-27
+480,Milk,Grocery,Puma,955.54,603.94,2024-05-16
+481,Laptop,Electronics,Puma,1457.08,1128.2,2025-04-28
+482,Jeans,Fashion,Nestle,1699.97,949.79,2026-04-11
+483,Perfume,Beauty,Dell,718.23,398.15,2024-03-14
+484,Perfume,Beauty,Sony,1749.1,1006.55,2024-11-09
+485,Chair,Home,Sony,1340.7,1068.14,2025-08-17
+486,Lamp,Home,Apple,1989.83,1468.9,2025-10-23
+487,Laptop,Electronics,Nestle,1812.54,1196.71,2025-06-18
+488,Jacket,Fashion,Lenovo,1477.27,991.6,2026-02-20
+489,Smart Watch,Electronics,Apple,79.33,63.23,2024-03-16
+490,Lipstick,Beauty,Samsung,1655.39,873.97,2026-02-26
+491,Mobile,Electronics,Sony,1040.67,791.15,2023-08-16
+492,Laptop,Electronics,Samsung,1980.35,1304.08,2024-12-01
+493,Rice,Grocery,Puma,312.58,210.1,2024-01-18
+494,Perfume,Beauty,Dell,1072.08,751.93,2023-09-13
+495,Chair,Home,Dell,1288.72,945.38,2025-01-09
+496,Headphones,Electronics,Dell,227.25,175.78,2025-01-28
+497,Rice,Grocery,LG,1093.78,873.73,2023-12-16
+498,Lipstick,Beauty,Puma,1915.03,1163.11,2025-02-02
+499,Jacket,Fashion,LG,1725.31,920.36,2023-11-12
+500,Lipstick,Beauty,Nestle,1474.46,814.5,2025-07-02
+501,Dining Table,Home,Apple,438.07,316.79,2025-02-05
+502,Coffee,Grocery,Loreal,297.53,202.73,2023-10-17
+503,Chair,Home,Apple,1584.2,1044.13,2023-11-21
+504,Hoodie,Fashion,LG,271.69,175.72,2024-12-15
+505,T-Shirt,Fashion,Nestle,1696.05,1019.09,2024-11-21
+506,Lipstick,Beauty,Nestle,1881.44,1415.05,2025-01-06
+507,Hoodie,Fashion,Lenovo,251.81,169.73,2024-09-12
+508,T-Shirt,Fashion,Puma,1225.03,640.85,2025-04-16
+509,Snacks,Grocery,Samsung,1829.72,1344.15,2024-08-30
+510,Jacket,Fashion,Sony,177.53,121.37,2024-04-13
+511,Mobile,Electronics,Apple,670.71,502.49,2024-03-30
+512,Smart Watch,Electronics,Adidas,1009.27,622.57,2024-05-07
+513,Tablet,Electronics,Puma,1426.11,942.26,2023-07-08
+514,Face Wash,Beauty,Samsung,1568.87,996.16,2025-08-26
+515,Coffee,Grocery,Lenovo,1818.69,1305.73,2025-10-05
+516,Lipstick,Beauty,Puma,1523.44,1057.54,2024-06-03
+517,T-Shirt,Fashion,Puma,964.84,641.77,2023-10-03
+518,Jacket,Fashion,Apple,1348.87,1048.62,2024-10-30
+519,Sofa,Home,Samsung,1856.1,1445.44,2025-08-27
+520,Lipstick,Beauty,Lenovo,1449.82,776.33,2025-10-05
+521,Sofa,Home,Samsung,1642.54,1307.73,2026-03-29
+522,Dining Table,Home,Lenovo,1242.93,960.44,2025-12-08
+523,Milk,Grocery,Sony,288.02,163.67,2024-01-16
+524,Jacket,Fashion,Puma,639.67,365.92,2025-10-09
+525,T-Shirt,Fashion,Samsung,479.5,285.15,2026-04-16
+526,T-Shirt,Fashion,Dell,1552.26,788.57,2023-08-23
+527,Coffee,Grocery,Nike,1218.53,668.38,2024-04-18
+528,T-Shirt,Fashion,Dell,146.47,113.58,2023-06-21
+529,Lipstick,Beauty,Adidas,125.74,77.7,2023-08-04
+530,T-Shirt,Fashion,LG,1811.0,1293.01,2023-09-30
+531,Rice,Grocery,Adidas,978.55,714.85,2024-02-28
+532,Lamp,Home,Samsung,595.61,391.08,2023-06-11
+533,Jeans,Fashion,Loreal,1571.25,1114.16,2024-07-26
+534,Milk,Grocery,Nike,212.49,164.27,2025-06-08
+535,Curtains,Home,Nestle,676.4,531.46,2023-07-23
+536,Mobile,Electronics,LG,156.53,84.22,2024-02-02
+537,Smart Watch,Electronics,Puma,784.79,590.35,2024-09-02
+538,Coffee,Grocery,Adidas,1685.44,1328.71,2024-03-11
+539,Headphones,Electronics,Lenovo,1373.8,737.61,2024-10-18
+540,Lipstick,Beauty,Loreal,238.52,127.47,2026-01-13
+541,Rice,Grocery,Puma,1160.54,602.96,2025-01-06
+542,Jeans,Fashion,Dell,1767.67,937.55,2025-07-24
+543,Lamp,Home,Nike,1389.27,989.99,2024-02-08
+544,Body Lotion,Beauty,Puma,838.29,575.04,2023-07-02
+545,Sofa,Home,Adidas,1300.22,713.64,2025-04-05
+546,Jacket,Fashion,Nestle,174.12,104.16,2023-06-18
+547,Mobile,Electronics,Apple,1998.15,1536.63,2024-09-12
+548,Sofa,Home,Sony,828.82,570.74,2024-03-31
+549,Jeans,Fashion,Dell,1076.27,680.63,2023-11-05
+550,Laptop,Electronics,LG,221.48,167.1,2024-12-17
+551,Headphones,Electronics,Apple,862.17,500.87,2025-08-29
+552,Perfume,Beauty,Dell,1649.3,1039.84,2023-07-27
+553,Perfume,Beauty,Dell,733.46,460.95,2023-08-10
+554,Mobile,Electronics,Samsung,452.5,278.64,2026-05-25
+555,Hoodie,Fashion,Nestle,381.78,265.66,2024-01-20
+556,Mobile,Electronics,LG,660.41,422.77,2023-07-06
+557,Shampoo,Beauty,Lenovo,1408.85,750.85,2024-05-09
+558,Bread,Grocery,Samsung,1944.13,1429.59,2025-02-09
+559,Coffee,Grocery,Nestle,1926.84,1145.83,2024-08-04
+560,Chair,Home,Dell,1265.07,1010.1,2025-12-09
+561,Dining Table,Home,Lenovo,1517.72,1149.26,2023-06-20
+562,Bread,Grocery,Adidas,1216.99,971.0,2025-05-01
+563,Milk,Grocery,LG,760.91,441.99,2024-08-20
+564,Milk,Grocery,Adidas,384.21,285.48,2024-07-04
+565,Hoodie,Fashion,Adidas,623.87,366.33,2024-05-09
+566,Rice,Grocery,Nestle,378.19,277.12,2026-04-29
+567,Mobile,Electronics,Nike,1596.53,1235.12,2024-05-01
+568,Snacks,Grocery,Sony,600.0,418.32,2023-10-04
+569,Milk,Grocery,Puma,1552.6,1085.61,2026-05-05
+570,Jeans,Fashion,LG,1776.05,944.97,2023-07-10
+571,Body Lotion,Beauty,Sony,1911.7,1200.13,2025-09-18
+572,Lipstick,Beauty,Loreal,1653.82,902.14,2025-03-17
+573,Jeans,Fashion,Nestle,488.47,348.18,2026-01-04
+574,Body Lotion,Beauty,LG,127.69,94.52,2023-06-26
+575,Chair,Home,Sony,377.97,194.36,2026-01-27
+576,Coffee,Grocery,Nike,1064.87,799.79,2025-10-07
+577,Hoodie,Fashion,Samsung,1534.68,893.18,2023-11-13
+578,Sofa,Home,Apple,1694.17,962.84,2023-09-09
+579,Lipstick,Beauty,Nike,1520.75,979.07,2025-02-25
+580,Sofa,Home,Loreal,217.07,114.6,2023-07-31
+581,Curtains,Home,Adidas,1928.98,1533.57,2024-05-21
+582,Shampoo,Beauty,Nestle,93.62,54.83,2026-05-03
+583,Shoes,Fashion,Sony,808.38,570.54,2024-02-23
+584,Laptop,Electronics,LG,1574.66,957.48,2023-10-27
+585,Shoes,Fashion,Dell,682.47,387.04,2025-01-27
+586,T-Shirt,Fashion,Loreal,1071.92,730.48,2024-01-21
+587,Shampoo,Beauty,Dell,959.28,576.85,2024-04-01
+588,Perfume,Beauty,Sony,314.4,230.94,2026-01-22
+589,Perfume,Beauty,Loreal,1613.93,987.6,2025-10-20
+590,Sofa,Home,Adidas,147.58,96.95,2023-09-06
+591,Rice,Grocery,Lenovo,1776.96,1280.51,2025-10-14
+592,Curtains,Home,Nike,723.34,484.19,2024-02-18
+593,Smart Watch,Electronics,Adidas,1442.7,1117.2,2025-09-20
+594,Shampoo,Beauty,Nestle,1049.48,528.67,2023-11-07
+595,Shoes,Fashion,LG,166.43,91.92,2025-01-11
+596,Rice,Grocery,Sony,1744.38,1325.45,2023-10-07
+597,Body Lotion,Beauty,Nestle,24.05,18.9,2024-02-15
+598,Jacket,Fashion,Dell,787.83,440.33,2025-08-23
+599,Chair,Home,Dell,56.73,37.01,2025-01-31
+600,Shampoo,Beauty,Adidas,1285.24,907.38,2025-07-11
+601,Shoes,Fashion,Sony,1493.07,789.38,2025-06-12
+602,Shampoo,Beauty,Dell,137.04,78.16,2025-09-04
+603,Headphones,Electronics,Loreal,456.58,359.8,2024-10-05
+604,Snacks,Grocery,Nestle,1990.81,1555.71,2025-05-03
+605,Snacks,Grocery,Adidas,1624.23,884.24,2026-03-05
+606,Lamp,Home,Lenovo,640.35,502.38,2025-01-18
+607,Sofa,Home,Nike,1751.73,1065.84,2025-09-25
+608,Jeans,Fashion,Samsung,36.4,26.05,2023-11-21
+609,T-Shirt,Fashion,Nestle,488.56,303.05,2023-06-15
+610,Milk,Grocery,Sony,145.94,88.75,2025-11-12
+611,Shampoo,Beauty,LG,1015.99,574.15,2024-01-19
+612,Shampoo,Beauty,Nike,408.96,268.73,2023-08-04
+613,Jeans,Fashion,LG,1926.92,1096.17,2024-08-29
+614,Coffee,Grocery,Lenovo,1722.88,1298.38,2025-04-17
+615,Laptop,Electronics,Lenovo,1231.11,728.47,2023-09-25
+616,Milk,Grocery,Samsung,1045.35,754.79,2024-12-29
+617,Tablet,Electronics,Sony,150.43,106.16,2025-12-02
+618,Dining Table,Home,Samsung,1667.34,1194.01,2023-10-10
+619,Milk,Grocery,Samsung,451.88,264.82,2024-01-05
+620,Sofa,Home,Lenovo,41.4,31.72,2024-02-18
+621,Tablet,Electronics,Samsung,1978.67,1553.24,2024-08-11
+622,Dining Table,Home,Sony,1574.52,1162.73,2023-09-01
+623,Shoes,Fashion,Apple,997.04,550.22,2025-06-23
+624,Milk,Grocery,Adidas,1686.37,1104.3,2024-06-12
+625,Headphones,Electronics,LG,1113.69,827.44,2024-04-15
+626,Laptop,Electronics,Samsung,1057.74,637.51,2025-08-15
+627,Bread,Grocery,Lenovo,579.91,435.02,2023-12-03
+628,Lamp,Home,Lenovo,934.42,633.78,2026-03-12
+629,T-Shirt,Fashion,Apple,1241.94,744.9,2025-03-15
+630,Face Wash,Beauty,LG,575.77,415.99,2023-10-11
+631,Shampoo,Beauty,LG,221.71,173.33,2024-10-03
+632,Lipstick,Beauty,Apple,1298.17,1009.53,2025-07-07
+633,Tablet,Electronics,Nestle,845.03,577.0,2025-01-09
+634,Snacks,Grocery,Dell,1614.69,1156.37,2026-03-13
+635,Laptop,Electronics,Nike,1709.91,1012.97,2024-02-08
+636,Tablet,Electronics,Apple,354.89,260.77,2026-04-09
+637,Jeans,Fashion,Samsung,261.64,203.64,2023-09-24
+638,Rice,Grocery,Nestle,766.06,475.45,2026-02-14
+639,Headphones,Electronics,Adidas,80.02,55.77,2024-06-04
+640,Jeans,Fashion,Lenovo,493.74,269.18,2024-05-20
+641,Curtains,Home,Nike,710.23,443.97,2026-01-23
+642,Jacket,Fashion,Puma,1772.73,1021.33,2024-01-29
+643,Laptop,Electronics,Samsung,1164.6,821.76,2023-11-04
+644,Dining Table,Home,Sony,1385.41,844.25,2026-03-25
+645,Shampoo,Beauty,Sony,467.61,265.08,2024-03-30
+646,Laptop,Electronics,Loreal,900.53,481.04,2025-02-17
+647,Coffee,Grocery,Lenovo,1458.42,1109.12,2025-08-21
+648,Snacks,Grocery,Apple,1952.93,1250.64,2024-10-09
+649,Sofa,Home,Puma,424.4,228.63,2024-08-27
+650,Face Wash,Beauty,Lenovo,1130.55,869.23,2025-07-23
+651,Perfume,Beauty,Nestle,284.84,157.09,2025-05-04
+652,Rice,Grocery,LG,1702.51,1159.5,2025-03-22
+653,Lamp,Home,LG,917.85,477.82,2026-04-19
+654,Chair,Home,LG,673.54,505.2,2023-06-07
+655,Sofa,Home,Loreal,1965.98,1158.1,2026-03-24
+656,Mobile,Electronics,Apple,1073.72,757.03,2024-04-01
+657,Tablet,Electronics,LG,1729.94,1201.86,2025-09-02
+658,Headphones,Electronics,Nike,134.67,77.67,2023-06-26
+659,Rice,Grocery,Nike,1581.51,871.39,2024-08-06
+660,Laptop,Electronics,LG,257.59,194.77,2025-06-17
+661,Perfume,Beauty,Adidas,1704.23,961.23,2026-05-19
+662,Shampoo,Beauty,Samsung,1995.83,1362.9,2026-05-23
+663,Chair,Home,Sony,1117.8,858.79,2023-10-27
+664,Sofa,Home,Puma,57.61,36.55,2025-11-03
+665,Laptop,Electronics,Dell,551.53,426.82,2023-12-08
+666,Chair,Home,Samsung,26.84,18.95,2024-06-14
+667,Bread,Grocery,Lenovo,956.85,691.81,2024-05-02
+668,Jeans,Fashion,Lenovo,1687.02,1101.1,2024-10-15
+669,Sofa,Home,Puma,818.01,461.96,2025-03-16
+670,Shoes,Fashion,Loreal,799.37,624.27,2023-07-05
+671,Coffee,Grocery,Nestle,19.21,13.36,2025-04-20
+672,Jeans,Fashion,Loreal,1144.89,587.03,2024-08-15
+673,Face Wash,Beauty,Dell,1147.84,657.58,2025-03-03
+674,Snacks,Grocery,Nike,1052.83,835.45,2025-04-04
+675,Chair,Home,Nike,1225.6,652.39,2024-12-15
+676,Sofa,Home,LG,1616.1,1116.06,2024-10-06
+677,Lipstick,Beauty,Sony,1833.05,1109.54,2023-12-14
+678,Bread,Grocery,Nestle,1088.16,855.53,2023-06-02
+679,Body Lotion,Beauty,Lenovo,1057.46,668.72,2025-04-06
+680,Lipstick,Beauty,Puma,1135.87,845.05,2025-07-25
+681,Curtains,Home,Apple,825.11,595.13,2024-02-23
+682,Shoes,Fashion,Samsung,1720.99,1052.2,2024-03-31
+683,Curtains,Home,Lenovo,1587.27,1038.55,2025-06-14
+684,Lamp,Home,Adidas,760.04,458.77,2023-06-09
+685,T-Shirt,Fashion,LG,622.66,436.1,2023-12-01
+686,Jacket,Fashion,Samsung,345.08,238.77,2025-12-11
+687,Lamp,Home,Adidas,1948.59,1221.42,2024-11-23
+688,Smart Watch,Electronics,Nestle,841.1,444.23,2026-05-11
+689,Snacks,Grocery,Nike,1256.21,889.9,2024-12-15
+690,Lipstick,Beauty,Nike,59.8,35.83,2025-01-13
+691,Face Wash,Beauty,Lenovo,1502.09,779.98,2024-06-28
+692,Headphones,Electronics,Loreal,954.59,510.4,2025-10-21
+693,Dining Table,Home,Nike,1151.65,904.97,2024-03-14
+694,Body Lotion,Beauty,Nestle,1718.46,1225.68,2024-12-08
+695,Bread,Grocery,Loreal,486.69,272.73,2024-03-03
+696,Face Wash,Beauty,LG,1098.41,872.65,2023-07-06
+697,Hoodie,Fashion,Adidas,966.12,713.89,2025-08-10
+698,T-Shirt,Fashion,LG,544.86,388.53,2023-07-29
+699,Jacket,Fashion,Nestle,1968.52,1405.89,2025-06-01
+700,Bread,Grocery,Nestle,45.88,26.99,2023-09-14
+701,Jeans,Fashion,Nike,1437.92,818.61,2026-05-06
+702,Hoodie,Fashion,Sony,1203.05,851.37,2026-05-02
+703,Mobile,Electronics,Loreal,705.15,545.81,2023-09-01
+704,Milk,Grocery,Nestle,1730.49,910.41,2024-09-21
+705,Bread,Grocery,Lenovo,1077.42,722.47,2024-10-19
+706,Headphones,Electronics,Nestle,1608.51,982.16,2024-06-30
+707,Curtains,Home,Lenovo,504.57,399.35,2024-04-14
+708,Dining Table,Home,Lenovo,25.27,14.68,2026-04-10
+709,Body Lotion,Beauty,Apple,1027.56,631.74,2024-09-24
+710,Face Wash,Beauty,Loreal,61.32,44.58,2023-08-06
+711,Tablet,Electronics,Puma,476.15,306.09,2023-06-15
+712,Face Wash,Beauty,Puma,56.33,35.79,2025-02-16
+713,Face Wash,Beauty,Puma,1785.36,975.87,2025-12-26
+714,Sofa,Home,Dell,1832.64,1172.92,2023-07-07
+715,Smart Watch,Electronics,Samsung,408.89,292.23,2023-07-23
+716,Rice,Grocery,Nike,1955.6,1158.71,2026-05-09
+717,Coffee,Grocery,Apple,1397.34,879.97,2024-06-06
+718,Shoes,Fashion,Samsung,1664.28,966.73,2023-08-06
+719,Jacket,Fashion,Apple,251.55,155.33,2025-02-21
+720,Shampoo,Beauty,Sony,763.33,469.74,2023-09-27
+721,Smart Watch,Electronics,LG,329.95,175.34,2023-11-02
+722,Bread,Grocery,Samsung,1165.92,782.65,2024-12-23
+723,Mobile,Electronics,Adidas,1562.09,1137.24,2023-06-11
+724,Mobile,Electronics,Puma,483.93,306.82,2024-01-27
+725,Shoes,Fashion,LG,693.19,453.0,2023-11-06
+726,Snacks,Grocery,Sony,762.51,549.24,2024-11-15
+727,Jacket,Fashion,Apple,1867.37,1061.17,2025-06-13
+728,T-Shirt,Fashion,Nike,1248.54,872.93,2025-11-15
+729,Lipstick,Beauty,Dell,71.65,55.2,2024-03-09
+730,Headphones,Electronics,LG,795.48,598.86,2026-05-22
+731,Coffee,Grocery,LG,161.32,90.13,2024-12-12
+732,Body Lotion,Beauty,LG,341.27,214.16,2026-05-07
+733,Shoes,Fashion,Nike,1258.35,922.41,2025-01-25
+734,Jeans,Fashion,Puma,1328.37,998.89,2024-07-17
+735,Chair,Home,Nike,895.28,609.55,2025-11-24
+736,Hoodie,Fashion,Apple,806.47,518.0,2024-04-23
+737,Chair,Home,Lenovo,196.92,127.05,2024-02-28
+738,Jacket,Fashion,Lenovo,335.08,198.17,2025-02-14
+739,Lamp,Home,Nike,1301.62,681.09,2025-07-11
+740,Snacks,Grocery,Lenovo,379.65,226.66,2025-01-31
+741,Lipstick,Beauty,Adidas,1292.17,895.1,2025-02-27
+742,Snacks,Grocery,Lenovo,1372.47,707.44,2024-02-05
+743,Hoodie,Fashion,Loreal,959.64,766.69,2026-04-22
+744,Snacks,Grocery,Sony,1596.25,933.46,2024-05-02
+745,Milk,Grocery,Nestle,1932.49,1049.83,2025-11-10
+746,Headphones,Electronics,Loreal,333.1,265.41,2025-09-14
+747,Chair,Home,Apple,367.54,235.49,2025-12-20
+748,Tablet,Electronics,Apple,541.43,396.97,2024-06-24
+749,Curtains,Home,LG,1776.97,1349.0,2025-10-23
+750,Jeans,Fashion,Nestle,592.73,420.72,2024-12-25
+751,Tablet,Electronics,Nike,103.81,64.81,2023-08-05
+752,Shampoo,Beauty,Adidas,368.44,228.11,2025-12-20
+753,Chair,Home,LG,1625.73,1139.98,2026-03-11
+754,Milk,Grocery,Adidas,1092.12,692.53,2023-06-27
+755,Coffee,Grocery,Sony,764.69,486.55,2024-06-03
+756,Bread,Grocery,Sony,494.74,288.99,2025-01-31
+757,Coffee,Grocery,Apple,444.96,324.63,2025-04-20
+758,Shoes,Fashion,Nike,1994.52,1450.88,2025-08-27
+759,Snacks,Grocery,Puma,1795.2,1366.81,2025-05-16
+760,Headphones,Electronics,Apple,1493.6,847.64,2024-12-02
+761,Rice,Grocery,Loreal,1048.63,804.15,2024-10-01
+762,Hoodie,Fashion,LG,1820.61,1324.27,2025-03-30
+763,Coffee,Grocery,Sony,1274.69,694.65,2024-10-17
+764,Hoodie,Fashion,Adidas,1237.29,920.03,2024-05-09
+765,Chair,Home,Nike,1163.1,695.53,2025-06-23
+766,Rice,Grocery,Sony,452.6,300.82,2024-08-27
+767,Curtains,Home,Loreal,1592.79,1237.81,2026-01-14
+768,Perfume,Beauty,Loreal,764.43,439.88,2025-01-21
+769,Snacks,Grocery,Lenovo,1928.87,1141.04,2023-09-18
+770,Jeans,Fashion,Dell,227.61,127.43,2025-12-27
+771,Dining Table,Home,LG,160.58,115.11,2025-09-15
+772,Jacket,Fashion,LG,730.02,478.44,2023-12-01
+773,Lamp,Home,Nestle,1175.75,727.43,2023-07-12
+774,Lipstick,Beauty,Lenovo,1479.86,1075.2,2024-03-07
+775,Bread,Grocery,Dell,482.4,279.76,2024-03-26
+776,Curtains,Home,Lenovo,820.94,523.78,2024-07-08
+777,Rice,Grocery,Apple,1674.0,1200.81,2024-11-19
+778,Perfume,Beauty,Dell,855.8,599.57,2025-06-15
+779,Dining Table,Home,Adidas,558.83,384.57,2023-12-23
+780,Lamp,Home,Samsung,1196.43,888.92,2025-03-06
+781,Smart Watch,Electronics,Nestle,1967.23,1553.27,2024-10-07
+782,Laptop,Electronics,Sony,447.56,285.7,2025-08-18
+783,Laptop,Electronics,Samsung,591.35,344.34,2025-02-22
+784,Body Lotion,Beauty,Samsung,1650.22,1084.21,2023-09-12
+785,Jeans,Fashion,LG,227.88,157.45,2025-02-08
+786,Perfume,Beauty,Lenovo,1824.44,1233.81,2025-09-22
+787,Body Lotion,Beauty,Sony,625.15,477.0,2024-12-05
+788,Face Wash,Beauty,Apple,1622.92,1230.92,2025-05-10
+789,Perfume,Beauty,Dell,1264.05,908.06,2024-06-19
+790,Shampoo,Beauty,Dell,1657.66,1012.56,2025-01-31
+791,Shampoo,Beauty,Nike,1620.46,1295.91,2026-03-15
+792,Sofa,Home,Sony,563.83,367.72,2023-09-06
+793,Shampoo,Beauty,Nike,1687.12,1172.1,2025-12-07
+794,Curtains,Home,Lenovo,221.15,135.83,2025-06-12
+795,Curtains,Home,Sony,1467.58,1075.3,2025-10-07
+796,Curtains,Home,LG,1978.71,1492.34,2025-09-15
+797,Face Wash,Beauty,Nestle,191.3,152.97,2025-02-27
+798,Mobile,Electronics,Nestle,1545.23,798.27,2025-11-20
+799,Face Wash,Beauty,LG,1918.24,1323.85,2023-10-17
+800,Face Wash,Beauty,LG,1734.76,1126.06,2025-08-06
+801,Jacket,Fashion,Lenovo,1341.02,1072.04,2023-08-23
+802,Face Wash,Beauty,Dell,323.94,212.32,2025-07-23
+803,Chair,Home,LG,83.19,64.5,2025-07-15
+804,Dining Table,Home,Lenovo,1399.89,1071.13,2025-03-06
+805,Lipstick,Beauty,Loreal,708.67,355.23,2024-11-20
+806,Laptop,Electronics,Lenovo,991.72,747.93,2024-03-15
+807,Dining Table,Home,Sony,353.46,202.36,2023-08-12
+808,Hoodie,Fashion,Puma,1427.57,848.26,2025-09-16
+809,Snacks,Grocery,Apple,1474.06,1154.43,2025-06-21
+810,Body Lotion,Beauty,LG,970.69,633.04,2025-06-16
+811,Tablet,Electronics,Adidas,722.72,437.48,2025-03-24
+812,Milk,Grocery,Sony,260.64,179.86,2024-01-07
+813,Sofa,Home,Loreal,413.55,260.18,2025-03-19
+814,Coffee,Grocery,Nike,924.34,703.04,2025-11-27
+815,Milk,Grocery,LG,383.98,217.97,2023-10-27
+816,Jeans,Fashion,Lenovo,1650.74,1309.02,2025-08-29
+817,Coffee,Grocery,Loreal,135.87,70.36,2026-02-28
+818,Dining Table,Home,Puma,1188.0,914.36,2023-07-12
+819,Headphones,Electronics,Adidas,700.12,448.57,2025-09-16
+820,Lipstick,Beauty,Sony,1592.7,868.65,2023-07-26
+821,Smart Watch,Electronics,Samsung,726.68,484.04,2025-01-11
+822,Shoes,Fashion,Samsung,1374.74,942.3,2024-06-14
+823,Milk,Grocery,Adidas,1077.64,729.31,2026-01-06
+824,Shoes,Fashion,Nike,270.57,197.22,2025-12-04
+825,Mobile,Electronics,Puma,870.74,555.48,2026-01-25
+826,Tablet,Electronics,LG,1637.39,1230.29,2023-09-28
+827,Laptop,Electronics,Nestle,1319.64,812.65,2024-10-13
+828,Dining Table,Home,Sony,319.56,190.65,2025-10-09
+829,Tablet,Electronics,Lenovo,1581.74,1086.44,2024-01-26
+830,Shoes,Fashion,LG,1951.68,1141.08,2024-07-18
+831,Rice,Grocery,Nestle,1871.36,965.74,2025-04-30
+832,Rice,Grocery,Lenovo,377.54,202.62,2024-09-11
+833,Laptop,Electronics,Sony,318.89,220.01,2024-05-05
+834,Jacket,Fashion,Nike,1174.32,914.1,2025-01-09
+835,T-Shirt,Fashion,Nestle,625.34,442.03,2025-08-30
+836,Lipstick,Beauty,Samsung,1623.39,834.43,2023-10-24
+837,Bread,Grocery,Nike,70.41,39.92,2024-02-01
+838,Chair,Home,Nike,1988.73,1091.51,2025-06-11
+839,Hoodie,Fashion,Adidas,164.35,124.28,2025-07-14
+840,Body Lotion,Beauty,Loreal,1819.78,1141.09,2023-07-29
+841,Headphones,Electronics,Sony,1782.44,1039.19,2024-01-03
+842,Rice,Grocery,Sony,539.21,344.77,2024-06-26
+843,Sofa,Home,Samsung,1171.75,741.65,2023-07-15
+844,Face Wash,Beauty,Adidas,627.68,404.57,2023-05-29
+845,Sofa,Home,LG,566.78,295.19,2024-10-07
+846,Milk,Grocery,Apple,667.24,525.0,2023-09-10
+847,Mobile,Electronics,Nike,809.63,612.84,2023-06-16
+848,Sofa,Home,Nike,1936.93,1445.35,2025-12-24
+849,Shampoo,Beauty,Loreal,1715.57,908.73,2025-07-12
+850,Body Lotion,Beauty,Samsung,994.69,734.65,2025-06-25
+851,Lipstick,Beauty,Apple,1824.01,1058.83,2025-01-29
+852,Hoodie,Fashion,Samsung,230.65,139.67,2023-11-02
+853,Rice,Grocery,Lenovo,815.11,450.74,2025-06-03
+854,Dining Table,Home,Nike,1436.23,1088.91,2025-11-03
+855,Bread,Grocery,Nestle,1739.67,943.77,2025-04-11
+856,Body Lotion,Beauty,Nike,1570.0,1031.54,2025-10-22
+857,Jacket,Fashion,Adidas,944.74,727.94,2025-04-24
+858,Face Wash,Beauty,Sony,1693.05,1350.54,2024-07-27
+859,Face Wash,Beauty,Samsung,1395.99,769.86,2025-10-19
+860,Jeans,Fashion,Nike,1619.04,879.87,2025-08-10
+861,Laptop,Electronics,Lenovo,436.89,314.74,2026-03-27
+862,Snacks,Grocery,Apple,1328.07,855.64,2025-02-19
+863,Lipstick,Beauty,Sony,507.25,400.23,2026-03-30
+864,Lamp,Home,Dell,558.08,318.56,2025-04-17
+865,Mobile,Electronics,Dell,1508.34,943.04,2025-03-03
+866,Snacks,Grocery,Nestle,207.96,163.66,2025-02-27
+867,Coffee,Grocery,Sony,1110.2,558.6,2024-10-15
+868,Body Lotion,Beauty,Adidas,1882.03,1298.23,2024-08-25
+869,Jacket,Fashion,Samsung,1393.74,941.94,2024-06-01
+870,Curtains,Home,Loreal,330.12,221.34,2024-01-05
+871,Bread,Grocery,Loreal,839.33,474.77,2023-12-07
+872,Chair,Home,Samsung,453.03,332.08,2025-11-08
+873,Snacks,Grocery,Sony,238.14,123.83,2025-11-05
+874,Hoodie,Fashion,Adidas,282.54,209.75,2023-12-20
+875,Shampoo,Beauty,Nike,1690.39,900.73,2026-04-06
+876,Smart Watch,Electronics,Sony,1756.83,1374.0,2023-12-30
+877,Lamp,Home,Sony,1126.89,576.88,2025-08-19
+878,Lipstick,Beauty,Lenovo,114.39,86.57,2025-07-03
+879,Face Wash,Beauty,Lenovo,472.41,270.87,2025-12-26
+880,Hoodie,Fashion,Apple,778.66,609.61,2023-07-01
+881,Sofa,Home,Sony,1341.59,940.21,2024-02-03
+882,Mobile,Electronics,Apple,143.88,107.59,2024-07-28
+883,Coffee,Grocery,Apple,1829.59,1123.41,2024-11-02
+884,Lamp,Home,Puma,1335.27,890.98,2025-04-04
+885,Bread,Grocery,Dell,52.59,36.24,2023-12-07
+886,Body Lotion,Beauty,Adidas,1109.62,704.89,2024-03-03
+887,Tablet,Electronics,Puma,1105.83,786.0,2023-06-05
+888,Laptop,Electronics,Adidas,353.62,187.97,2024-10-22
+889,Curtains,Home,LG,681.53,350.36,2026-02-20
+890,Shampoo,Beauty,Sony,1677.31,913.21,2024-02-24
+891,Sofa,Home,Loreal,100.69,66.35,2025-11-07
+892,Mobile,Electronics,Dell,924.84,550.44,2023-11-24
+893,Jeans,Fashion,Samsung,274.6,158.65,2025-05-22
+894,Perfume,Beauty,Lenovo,363.74,269.49,2026-04-29
+895,Headphones,Electronics,Nestle,1757.5,946.47,2026-01-31
+896,Lamp,Home,Samsung,1709.05,1157.43,2026-05-20
+897,Tablet,Electronics,Sony,1959.73,1162.32,2024-04-03
+898,Dining Table,Home,Dell,948.76,730.48,2024-11-17
+899,Lamp,Home,Nestle,128.88,90.85,2024-04-17
+900,Perfume,Beauty,Apple,1780.35,901.88,2026-03-01
+901,Dining Table,Home,Dell,1087.7,832.64,2026-02-17
+902,Lipstick,Beauty,Lenovo,1568.47,1108.31,2023-06-07
+903,T-Shirt,Fashion,LG,1568.94,978.64,2024-07-04
+904,Shampoo,Beauty,Nestle,1394.05,955.83,2024-10-17
+905,Tablet,Electronics,Apple,1332.79,895.62,2024-05-16
+906,Snacks,Grocery,Nike,1266.28,982.29,2024-11-16
+907,Coffee,Grocery,LG,423.98,251.7,2023-07-12
+908,Smart Watch,Electronics,LG,348.36,270.81,2024-04-24
+909,Chair,Home,Loreal,1980.94,1294.34,2026-05-06
+910,Coffee,Grocery,LG,1610.69,1173.61,2026-04-11
+911,Coffee,Grocery,Loreal,1368.9,979.77,2024-07-21
+912,Snacks,Grocery,Apple,1056.88,756.84,2024-10-20
+913,Tablet,Electronics,Samsung,1607.81,1160.59,2025-08-10
+914,Jeans,Fashion,Apple,358.78,216.98,2024-12-14
+915,Hoodie,Fashion,Apple,1480.72,908.53,2024-10-01
+916,Jacket,Fashion,Sony,1805.92,1172.93,2023-06-01
+917,Jeans,Fashion,Nestle,1584.07,840.46,2025-04-16
+918,Headphones,Electronics,Apple,556.55,355.35,2026-01-04
+919,Lipstick,Beauty,Nestle,564.99,283.35,2024-04-16
+920,Shoes,Fashion,LG,442.71,236.88,2025-03-26
+921,Shoes,Fashion,Nestle,263.2,205.17,2024-10-13
+922,Sofa,Home,Nike,993.35,516.72,2023-06-07
+923,Dining Table,Home,Lenovo,1096.68,869.54,2025-05-31
+924,Snacks,Grocery,Adidas,657.41,479.41,2026-05-14
+925,Hoodie,Fashion,Sony,576.8,422.9,2024-07-13
+926,Dining Table,Home,Lenovo,1227.11,967.73,2024-09-02
+927,Body Lotion,Beauty,Puma,998.21,703.64,2025-11-03
+928,Smart Watch,Electronics,Dell,89.86,70.61,2023-06-24
+929,Curtains,Home,Puma,1727.25,1090.99,2023-11-26
+930,Jeans,Fashion,Dell,1610.97,1032.39,2023-08-17
+931,Laptop,Electronics,Loreal,1015.72,704.15,2024-03-31
+932,Jeans,Fashion,Apple,582.74,391.35,2023-10-02
+933,Milk,Grocery,Nestle,1546.44,981.52,2025-11-01
+934,Perfume,Beauty,Samsung,770.56,511.66,2023-09-16
+935,Body Lotion,Beauty,Sony,823.91,560.21,2024-01-07
+936,Tablet,Electronics,Apple,142.49,91.54,2023-12-10
+937,Perfume,Beauty,Puma,883.61,558.28,2025-11-20
+938,Chair,Home,Adidas,1257.91,786.48,2024-08-24
+939,Shampoo,Beauty,Lenovo,1132.03,652.64,2025-04-30
+940,Mobile,Electronics,Lenovo,1485.67,743.42,2025-11-18
+941,Sofa,Home,Adidas,1791.01,1050.58,2023-10-09
+942,Lamp,Home,Adidas,1902.75,960.81,2026-01-12
+943,Curtains,Home,Nestle,132.49,104.22,2025-11-27
+944,Shampoo,Beauty,Puma,1526.21,907.6,2023-09-02
+945,Hoodie,Fashion,Dell,572.2,391.35,2024-10-31
+946,Dining Table,Home,Dell,1810.38,1222.85,2024-05-10
+947,Bread,Grocery,Puma,435.72,263.76,2025-02-05
+948,Perfume,Beauty,Loreal,53.61,36.94,2025-06-17
+949,Headphones,Electronics,Lenovo,1106.62,565.78,2024-11-24
+950,Milk,Grocery,LG,1892.85,1193.77,2023-09-17
+951,Lamp,Home,Adidas,1472.67,870.92,2025-04-24
+952,Headphones,Electronics,Apple,1617.73,1048.85,2025-10-16
+953,Coffee,Grocery,Adidas,757.85,537.23,2024-02-05
+954,Headphones,Electronics,Nestle,1330.31,852.72,2023-12-23
+955,Jacket,Fashion,Lenovo,775.88,435.53,2024-06-13
+956,Milk,Grocery,Puma,1648.42,893.86,2026-05-04
+957,Chair,Home,LG,1396.61,1040.1,2025-11-10
+958,Shampoo,Beauty,Lenovo,367.59,210.99,2025-08-31
+959,Lamp,Home,Loreal,1296.12,766.25,2024-07-20
+960,Curtains,Home,Sony,269.83,154.97,2024-04-20
+961,Face Wash,Beauty,LG,1813.48,1253.15,2026-05-22
+962,Lipstick,Beauty,Sony,1206.83,663.26,2025-01-17
+963,Hoodie,Fashion,Samsung,127.12,68.23,2025-01-01
+964,Curtains,Home,Loreal,819.62,519.63,2025-02-12
+965,Shampoo,Beauty,Samsung,1917.79,1439.48,2024-07-30
+966,Chair,Home,Nike,527.95,380.28,2024-06-08
+967,Lipstick,Beauty,Samsung,1677.71,981.49,2023-07-26
+968,Hoodie,Fashion,Dell,857.49,516.87,2025-02-17
+969,Headphones,Electronics,Adidas,169.24,93.93,2026-03-07
+970,Perfume,Beauty,Lenovo,1795.26,1180.98,2023-08-09
+971,Sofa,Home,Adidas,1045.67,675.38,2024-06-28
+972,Smart Watch,Electronics,Samsung,851.11,498.45,2024-12-27
+973,Milk,Grocery,Loreal,650.7,328.95,2024-04-20
+974,Sofa,Home,Sony,1425.22,1061.0,2025-05-22
+975,Mobile,Electronics,Puma,599.72,444.79,2025-08-31
+976,Chair,Home,Apple,331.13,182.14,2024-08-01
+977,Coffee,Grocery,LG,1606.79,1160.08,2026-03-26
+978,Chair,Home,Nestle,25.53,19.2,2024-10-26
+979,Milk,Grocery,Dell,1026.26,648.47,2024-09-13
+980,Headphones,Electronics,Puma,1740.51,1042.73,2026-05-09
+981,Curtains,Home,Sony,693.17,508.93,2024-11-10
+982,Smart Watch,Electronics,Dell,1512.27,1158.73,2023-07-01
+983,Milk,Grocery,Samsung,521.63,323.52,2024-08-26
+984,T-Shirt,Fashion,Sony,1693.29,984.05,2025-12-19
+985,Bread,Grocery,Loreal,42.67,23.17,2024-07-31
+986,Curtains,Home,Nike,1729.67,1376.48,2023-08-27
+987,T-Shirt,Fashion,Nike,1911.49,1405.28,2026-02-07
+988,Chair,Home,Loreal,1708.69,1053.67,2024-06-30
+989,Coffee,Grocery,Adidas,14.64,10.53,2025-03-04
+990,Lamp,Home,Loreal,352.5,204.54,2024-07-24
+991,Bread,Grocery,LG,575.67,323.48,2026-01-11
+992,T-Shirt,Fashion,Nike,1327.15,996.36,2023-10-04
+993,Jeans,Fashion,Samsung,1400.41,712.47,2024-09-24
+994,Perfume,Beauty,Loreal,1309.92,788.94,2025-07-07
+995,Laptop,Electronics,Apple,768.63,438.36,2023-11-16
+996,Laptop,Electronics,Dell,238.26,137.29,2024-03-05
+997,Headphones,Electronics,Apple,531.86,366.83,2024-07-19
+998,Bread,Grocery,Loreal,148.87,105.57,2023-11-23
+999,T-Shirt,Fashion,Sony,994.89,535.93,2025-07-12
+1000,Milk,Grocery,Sony,1673.85,1129.72,2024-10-03

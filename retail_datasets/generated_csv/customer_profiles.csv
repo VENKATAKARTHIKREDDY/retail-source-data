@@ -1,0 +1,1001 @@
+profile_id,customer_id,income_level,loyalty_level,marital_status,age,occupation
+1,1,Medium,Gold,Married,63,Historic buildings inspector/conservation officer
+2,2,Medium,Platinum,Single,23,Land/geomatics surveyor
+3,3,Medium,Gold,Married,31,Sport and exercise psychologist
+4,4,Low,Bronze,Married,54,Private music teacher
+5,5,Low,Bronze,Married,24,Dentist
+6,6,High,Gold,Married,68,Water quality scientist
+7,7,Medium,Bronze,Married,18,Further education lecturer
+8,8,High,Bronze,Married,29,Chief Executive Officer
+9,9,Medium,Bronze,Single,43,Records manager
+10,10,Medium,Bronze,Single,42,"Engineer, drilling"
+11,11,Medium,Gold,Married,31,"Horticulturist, amenity"
+12,12,Medium,Silver,Married,23,"Teacher, English as a foreign language"
+13,13,Low,Gold,Married,53,"Surveyor, insurance"
+14,14,High,Gold,Single,56,Petroleum engineer
+15,15,High,Silver,Single,34,Broadcast engineer
+16,16,High,Platinum,Married,30,Industrial buyer
+17,17,Medium,Platinum,Single,60,Exhibition designer
+18,18,Medium,Bronze,Single,62,"Secretary, company"
+19,19,Medium,Platinum,Single,68,Actuary
+20,20,High,Gold,Married,31,Medical physicist
+21,21,High,Platinum,Married,26,Event organiser
+22,22,Low,Platinum,Single,35,Biomedical engineer
+23,23,Low,Silver,Married,27,Occupational therapist
+24,24,Medium,Bronze,Single,31,Hydrographic surveyor
+25,25,Medium,Gold,Married,30,Professor Emeritus
+26,26,Medium,Bronze,Married,45,Paediatric nurse
+27,27,Medium,Gold,Single,29,Archaeologist
+28,28,Low,Gold,Single,47,Barrister
+29,29,Low,Bronze,Married,61,"Programmer, systems"
+30,30,High,Bronze,Single,42,Dancer
+31,31,High,Gold,Married,27,Leisure centre manager
+32,32,High,Bronze,Single,22,"Psychologist, occupational"
+33,33,Medium,Bronze,Married,45,"Civil engineer, contracting"
+34,34,Low,Silver,Single,67,"Designer, interior/spatial"
+35,35,Low,Gold,Single,43,Wellsite geologist
+36,36,Medium,Gold,Married,53,Radiation protection practitioner
+37,37,High,Platinum,Married,26,Research scientist (maths)
+38,38,Low,Gold,Single,40,Music tutor
+39,39,Low,Bronze,Married,70,Public affairs consultant
+40,40,Medium,Bronze,Single,46,"Production assistant, television"
+41,41,Low,Gold,Married,20,Physiological scientist
+42,42,High,Bronze,Single,18,Environmental consultant
+43,43,High,Gold,Single,42,Secondary school teacher
+44,44,Low,Silver,Single,20,"Engineer, site"
+45,45,Low,Platinum,Married,39,Video editor
+46,46,Low,Bronze,Single,49,Public relations account executive
+47,47,High,Bronze,Married,63,"Administrator, sports"
+48,48,Medium,Bronze,Single,41,Patent examiner
+49,49,High,Silver,Single,33,Air cabin crew
+50,50,Low,Bronze,Married,61,Chief of Staff
+51,51,Medium,Silver,Married,57,Mining engineer
+52,52,Medium,Silver,Married,21,Community development worker
+53,53,High,Bronze,Single,50,Operational investment banker
+54,54,Medium,Silver,Single,19,Learning disability nurse
+55,55,High,Platinum,Married,48,"Administrator, local government"
+56,56,Medium,Platinum,Married,51,Soil scientist
+57,57,Medium,Bronze,Married,40,"Engineer, land"
+58,58,High,Bronze,Single,22,Petroleum engineer
+59,59,Medium,Bronze,Single,22,Market researcher
+60,60,Low,Silver,Single,52,Marketing executive
+61,61,High,Silver,Single,44,Control and instrumentation engineer
+62,62,Low,Gold,Married,25,Diplomatic Services operational officer
+63,63,High,Silver,Single,56,Best boy
+64,64,High,Platinum,Married,50,"Civil engineer, consulting"
+65,65,Medium,Platinum,Single,69,Glass blower/designer
+66,66,High,Bronze,Married,54,"Geneticist, molecular"
+67,67,Medium,Platinum,Married,22,Land
+68,68,Medium,Gold,Single,52,Special educational needs teacher
+69,69,Low,Gold,Single,56,"Designer, jewellery"
+70,70,High,Bronze,Single,57,Landscape architect
+71,71,Low,Bronze,Single,44,Bonds trader
+72,72,Low,Bronze,Single,21,Medical physicist
+73,73,Low,Silver,Married,38,Visual merchandiser
+74,74,Low,Bronze,Married,63,Tax adviser
+75,75,High,Silver,Single,61,"Psychologist, clinical"
+76,76,High,Platinum,Single,21,Paediatric nurse
+77,77,Medium,Gold,Single,47,Translator
+78,78,Medium,Platinum,Married,52,Office manager
+79,79,Medium,Platinum,Single,56,"Nurse, mental health"
+80,80,Low,Gold,Married,53,Counsellor
+81,81,Medium,Silver,Married,46,Sports development officer
+82,82,High,Platinum,Married,43,Physiotherapist
+83,83,Low,Platinum,Single,64,Sub
+84,84,High,Gold,Married,28,"Doctor, hospital"
+85,85,Low,Silver,Married,21,Counsellor
+86,86,High,Silver,Married,23,Hospital pharmacist
+87,87,Low,Silver,Married,45,Furniture conservator/restorer
+88,88,High,Bronze,Single,57,Statistician
+89,89,Low,Gold,Single,19,Environmental manager
+90,90,High,Gold,Married,22,Waste management officer
+91,91,High,Gold,Single,67,Plant breeder/geneticist
+92,92,High,Gold,Single,56,Forensic scientist
+93,93,High,Gold,Single,24,Probation officer
+94,94,Low,Silver,Single,66,Professor Emeritus
+95,95,Medium,Bronze,Single,19,Estate manager/land agent
+96,96,High,Bronze,Single,39,"Scientist, research (maths)"
+97,97,High,Bronze,Married,61,Surgeon
+98,98,Medium,Bronze,Married,54,Volunteer coordinator
+99,99,Medium,Platinum,Single,18,Educational psychologist
+100,100,Medium,Bronze,Married,39,"Engineer, communications"
+101,101,Medium,Platinum,Married,32,Consulting civil engineer
+102,102,Medium,Silver,Single,26,Quarry manager
+103,103,High,Platinum,Single,63,"Scientist, research (physical sciences)"
+104,104,High,Silver,Married,42,Gaffer
+105,105,Low,Platinum,Single,68,Data scientist
+106,106,Low,Bronze,Single,56,"Scientist, physiological"
+107,107,High,Silver,Single,51,Land
+108,108,Medium,Platinum,Married,35,Actuary
+109,109,Medium,Platinum,Single,47,Corporate treasurer
+110,110,High,Platinum,Married,52,Geoscientist
+111,111,Medium,Silver,Married,70,Pension scheme manager
+112,112,Medium,Silver,Married,49,"Biochemist, clinical"
+113,113,Medium,Silver,Single,45,"Engineer, land"
+114,114,Low,Gold,Married,27,Clothing/textile technologist
+115,115,High,Platinum,Married,31,Chief Executive Officer
+116,116,Low,Silver,Single,29,"Editor, commissioning"
+117,117,Medium,Silver,Single,37,Art gallery manager
+118,118,High,Bronze,Single,41,Diagnostic radiographer
+119,119,Medium,Platinum,Married,38,Retail banker
+120,120,Low,Bronze,Married,52,Public librarian
+121,121,Low,Gold,Married,56,Sports therapist
+122,122,High,Gold,Single,36,"Therapist, speech and language"
+123,123,Medium,Platinum,Married,36,"Teacher, special educational needs"
+124,124,Low,Silver,Single,41,"Therapist, horticultural"
+125,125,Medium,Gold,Single,67,"Surveyor, commercial/residential"
+126,126,Medium,Platinum,Single,42,"Conservator, museum/gallery"
+127,127,High,Platinum,Single,45,Land/geomatics surveyor
+128,128,Low,Platinum,Married,50,Haematologist
+129,129,Medium,Platinum,Single,33,Applications developer
+130,130,Low,Platinum,Married,43,Production manager
+131,131,High,Bronze,Single,60,Risk manager
+132,132,Low,Bronze,Married,64,Careers information officer
+133,133,Low,Silver,Married,51,Local government officer
+134,134,Low,Gold,Married,31,Volunteer coordinator
+135,135,High,Silver,Single,23,Visual merchandiser
+136,136,Medium,Bronze,Married,23,Social worker
+137,137,Low,Bronze,Single,36,Public house manager
+138,138,Low,Gold,Single,38,Psychiatric nurse
+139,139,High,Platinum,Single,24,Brewing technologist
+140,140,High,Bronze,Married,32,IT trainer
+141,141,Medium,Gold,Married,26,Waste management officer
+142,142,Medium,Gold,Single,56,Scientific laboratory technician
+143,143,Medium,Gold,Married,33,Consulting civil engineer
+144,144,Low,Silver,Single,29,Press sub
+145,145,Low,Gold,Married,44,Equities trader
+146,146,Low,Gold,Single,27,Multimedia specialist
+147,147,Low,Gold,Single,50,Proofreader
+148,148,Medium,Gold,Single,65,Energy engineer
+149,149,High,Gold,Single,35,Pharmacologist
+150,150,Medium,Platinum,Married,51,Haematologist
+151,151,Medium,Bronze,Single,42,Sport and exercise psychologist
+152,152,Low,Silver,Single,55,Technical brewer
+153,153,High,Bronze,Single,19,"Surveyor, rural practice"
+154,154,Low,Silver,Single,48,"Journalist, magazine"
+155,155,High,Platinum,Single,64,Trading standards officer
+156,156,High,Platinum,Married,48,Garment/textile technologist
+157,157,Low,Gold,Single,39,Orthoptist
+158,158,High,Bronze,Single,59,Museum/gallery exhibitions officer
+159,159,High,Platinum,Married,67,Exhibition designer
+160,160,Medium,Gold,Married,62,Animator
+161,161,High,Gold,Single,27,Geophysical data processor
+162,162,Medium,Gold,Married,24,Energy engineer
+163,163,Low,Gold,Single,69,Pensions consultant
+164,164,Medium,Bronze,Single,49,"Librarian, academic"
+165,165,Low,Platinum,Single,42,Lexicographer
+166,166,Low,Platinum,Single,65,IT trainer
+167,167,Medium,Bronze,Single,22,Teaching laboratory technician
+168,168,High,Bronze,Single,63,"Surveyor, rural practice"
+169,169,Low,Bronze,Married,30,Early years teacher
+170,170,Low,Bronze,Single,54,Hospital pharmacist
+171,171,High,Silver,Married,69,Agricultural engineer
+172,172,Low,Bronze,Married,48,"Scientist, marine"
+173,173,Low,Bronze,Single,60,"Designer, ceramics/pottery"
+174,174,Medium,Silver,Married,51,Information officer
+175,175,Medium,Bronze,Single,68,Horticultural consultant
+176,176,High,Bronze,Single,67,Writer
+177,177,Medium,Gold,Single,24,Medical technical officer
+178,178,Medium,Bronze,Married,66,Theme park manager
+179,179,Low,Silver,Single,64,Animal technologist
+180,180,Medium,Silver,Married,39,"Scientist, water quality"
+181,181,High,Bronze,Married,29,Research scientist (life sciences)
+182,182,Low,Silver,Married,52,Community arts worker
+183,183,Low,Gold,Single,64,Solicitor
+184,184,High,Gold,Single,28,Investment analyst
+185,185,Medium,Bronze,Married,66,Environmental manager
+186,186,Medium,Gold,Single,62,Financial controller
+187,187,Medium,Platinum,Married,63,Armed forces technical officer
+188,188,Low,Gold,Married,32,Company secretary
+189,189,High,Platinum,Married,35,"Presenter, broadcasting"
+190,190,High,Gold,Married,51,Housing manager/officer
+191,191,Medium,Platinum,Single,48,Podiatrist
+192,192,High,Platinum,Single,27,"Surveyor, rural practice"
+193,193,Medium,Gold,Married,41,"Surveyor, commercial/residential"
+194,194,Low,Gold,Married,21,"Engineer, maintenance"
+195,195,Medium,Silver,Married,41,"Therapist, occupational"
+196,196,High,Bronze,Single,31,"Engineer, manufacturing"
+197,197,High,Gold,Married,20,Early years teacher
+198,198,High,Bronze,Married,36,Ergonomist
+199,199,Low,Gold,Married,20,Medical physicist
+200,200,High,Gold,Married,46,"Scientist, research (physical sciences)"
+201,201,Low,Silver,Single,48,Chief Operating Officer
+202,202,Low,Platinum,Single,65,Gaffer
+203,203,Medium,Silver,Single,59,Operations geologist
+204,204,Low,Silver,Single,64,"Programmer, systems"
+205,205,High,Platinum,Married,38,"Accountant, chartered certified"
+206,206,Low,Bronze,Married,60,Corporate treasurer
+207,207,High,Gold,Married,66,Electronics engineer
+208,208,Medium,Silver,Single,29,Air broker
+209,209,Medium,Platinum,Single,58,"Scientist, audiological"
+210,210,High,Silver,Single,33,Maintenance engineer
+211,211,Medium,Gold,Single,29,Armed forces training and education officer
+212,212,Medium,Bronze,Single,66,Associate Professor
+213,213,High,Platinum,Single,25,General practice doctor
+214,214,Medium,Gold,Single,65,Public relations officer
+215,215,Medium,Gold,Single,32,Estate manager/land agent
+216,216,Medium,Gold,Married,63,"Surveyor, minerals"
+217,217,High,Platinum,Single,35,Optometrist
+218,218,Medium,Bronze,Married,26,"Pharmacist, hospital"
+219,219,Medium,Gold,Single,31,Health visitor
+220,220,High,Gold,Married,29,Product manager
+221,221,Low,Platinum,Single,69,"Accountant, chartered public finance"
+222,222,Low,Bronze,Single,65,Advertising account executive
+223,223,Medium,Platinum,Married,44,"Engineer, maintenance (IT)"
+224,224,High,Platinum,Married,47,Public house manager
+225,225,High,Silver,Single,62,Tax inspector
+226,226,Low,Platinum,Single,65,Local government officer
+227,227,Medium,Platinum,Single,68,Chief Financial Officer
+228,228,Low,Platinum,Married,31,"Engineer, site"
+229,229,High,Platinum,Married,39,Art therapist
+230,230,Low,Gold,Married,46,Technical author
+231,231,Medium,Silver,Married,20,Haematologist
+232,232,Low,Platinum,Married,70,Facilities manager
+233,233,High,Gold,Married,36,Press sub
+234,234,High,Silver,Single,22,Public librarian
+235,235,Low,Platinum,Married,61,Clinical psychologist
+236,236,High,Silver,Single,32,Health and safety inspector
+237,237,Low,Gold,Married,48,Risk analyst
+238,238,High,Bronze,Single,46,Patent examiner
+239,239,Medium,Bronze,Single,51,Health service manager
+240,240,High,Gold,Married,21,Chartered legal executive (England and Wales)
+241,241,Medium,Bronze,Married,64,Ergonomist
+242,242,Low,Gold,Married,18,Quality manager
+243,243,High,Platinum,Married,52,"Scientist, research (life sciences)"
+244,244,High,Platinum,Single,34,Art therapist
+245,245,High,Bronze,Married,43,"Engineer, mining"
+246,246,Low,Gold,Married,37,"Social research officer, government"
+247,247,High,Silver,Married,38,Dealer
+248,248,Medium,Silver,Married,49,"Production designer, theatre/television/film"
+249,249,High,Bronze,Married,56,"Designer, fashion/clothing"
+250,250,Medium,Bronze,Married,19,"Psychologist, occupational"
+251,251,Low,Gold,Married,49,"Engineer, production"
+252,252,Medium,Silver,Single,50,Ambulance person
+253,253,Medium,Silver,Single,65,Financial adviser
+254,254,Medium,Bronze,Single,18,Metallurgist
+255,255,Low,Gold,Single,59,Barista
+256,256,High,Bronze,Single,38,Museum education officer
+257,257,Low,Platinum,Married,41,Occupational hygienist
+258,258,Low,Silver,Single,54,Agricultural consultant
+259,259,Low,Silver,Married,54,Statistician
+260,260,Medium,Bronze,Married,40,"Scientist, biomedical"
+261,261,Low,Platinum,Single,43,Environmental consultant
+262,262,Medium,Gold,Single,25,Financial planner
+263,263,Medium,Silver,Married,48,Water quality scientist
+264,264,Low,Gold,Single,66,Company secretary
+265,265,Low,Gold,Single,29,Chief Financial Officer
+266,266,Low,Silver,Married,34,Tax adviser
+267,267,Low,Bronze,Single,47,Furniture conservator/restorer
+268,268,Medium,Bronze,Single,55,Scientific laboratory technician
+269,269,Medium,Platinum,Single,18,Graphic designer
+270,270,Medium,Gold,Married,47,Politician's assistant
+271,271,Low,Gold,Single,67,Education administrator
+272,272,High,Silver,Married,60,"Designer, industrial/product"
+273,273,High,Platinum,Married,50,"Loss adjuster, chartered"
+274,274,Medium,Bronze,Married,46,Camera operator
+275,275,High,Bronze,Single,18,Administrator
+276,276,High,Platinum,Single,62,Podiatrist
+277,277,High,Platinum,Married,47,Ranger/warden
+278,278,Medium,Silver,Single,33,"Secretary, company"
+279,279,Low,Silver,Single,56,Clinical psychologist
+280,280,Low,Platinum,Single,53,"Scientist, research (medical)"
+281,281,High,Platinum,Married,65,TEFL teacher
+282,282,High,Silver,Married,37,Chief Executive Officer
+283,283,Medium,Platinum,Single,59,"Designer, textile"
+284,284,Medium,Bronze,Single,55,Location manager
+285,285,Medium,Gold,Married,54,Legal executive
+286,286,Medium,Gold,Married,33,"Engineer, biomedical"
+287,287,High,Silver,Single,21,English as a second language teacher
+288,288,Medium,Platinum,Single,39,Herbalist
+289,289,Medium,Silver,Single,59,Soil scientist
+290,290,High,Silver,Single,61,Office manager
+291,291,Low,Silver,Single,51,Fast food restaurant manager
+292,292,Medium,Platinum,Single,45,Chiropodist
+293,293,Medium,Platinum,Single,57,"Presenter, broadcasting"
+294,294,High,Bronze,Married,19,Counsellor
+295,295,Medium,Bronze,Married,60,"Designer, multimedia"
+296,296,Low,Gold,Married,67,"Administrator, sports"
+297,297,Medium,Silver,Married,39,Energy manager
+298,298,High,Bronze,Married,60,Patent examiner
+299,299,High,Platinum,Single,62,Consulting civil engineer
+300,300,Low,Platinum,Single,49,Horticultural therapist
+301,301,Low,Silver,Single,40,Environmental health practitioner
+302,302,Medium,Platinum,Single,22,Office manager
+303,303,Low,Bronze,Married,66,Psychiatrist
+304,304,Low,Silver,Married,36,Ambulance person
+305,305,Medium,Silver,Married,63,Rural practice surveyor
+306,306,Low,Gold,Married,28,Office manager
+307,307,Low,Gold,Single,24,"Production designer, theatre/television/film"
+308,308,High,Silver,Married,23,Film/video editor
+309,309,Medium,Gold,Single,55,"Surveyor, quantity"
+310,310,Medium,Platinum,Single,33,Energy manager
+311,311,High,Bronze,Married,35,Air broker
+312,312,Medium,Silver,Single,60,Geoscientist
+313,313,Medium,Bronze,Married,49,Landscape architect
+314,314,High,Silver,Married,47,Tourism officer
+315,315,High,Silver,Married,65,Phytotherapist
+316,316,Medium,Platinum,Married,47,"Teacher, special educational needs"
+317,317,Low,Bronze,Single,56,"Designer, blown glass/stained glass"
+318,318,High,Gold,Married,20,Arboriculturist
+319,319,Medium,Silver,Married,48,Arboriculturist
+320,320,Medium,Gold,Married,40,Press photographer
+321,321,Low,Gold,Single,24,"Therapist, nutritional"
+322,322,Low,Gold,Married,22,"Scientist, marine"
+323,323,Low,Silver,Single,21,Broadcast engineer
+324,324,Medium,Gold,Single,58,Make
+325,325,Medium,Platinum,Married,32,Interior and spatial designer
+326,326,Medium,Silver,Married,24,Historic buildings inspector/conservation officer
+327,327,Low,Platinum,Single,29,Technical author
+328,328,High,Platinum,Single,25,"Psychologist, educational"
+329,329,Medium,Gold,Single,38,Architectural technologist
+330,330,Medium,Silver,Single,39,"Engineer, control and instrumentation"
+331,331,High,Gold,Married,66,Energy manager
+332,332,Medium,Silver,Married,50,Radio broadcast assistant
+333,333,High,Platinum,Married,38,"Scientist, research (maths)"
+334,334,High,Bronze,Married,27,Public house manager
+335,335,High,Bronze,Married,56,Insurance risk surveyor
+336,336,High,Bronze,Married,39,"Psychologist, educational"
+337,337,High,Platinum,Married,28,Operations geologist
+338,338,High,Gold,Married,24,"Engineer, broadcasting (operations)"
+339,339,High,Platinum,Single,33,Aid worker
+340,340,Medium,Platinum,Single,55,Exercise physiologist
+341,341,High,Bronze,Married,36,Ranger/warden
+342,342,Medium,Platinum,Married,55,Technical brewer
+343,343,Medium,Platinum,Single,58,Dealer
+344,344,High,Platinum,Married,35,Hydrogeologist
+345,345,High,Platinum,Married,55,Patent examiner
+346,346,Low,Gold,Single,48,Community arts worker
+347,347,Medium,Silver,Single,69,Barrister's clerk
+348,348,Low,Silver,Single,65,Consulting civil engineer
+349,349,Medium,Silver,Single,24,"Administrator, arts"
+350,350,Medium,Gold,Single,27,Tour manager
+351,351,High,Platinum,Married,67,IT technical support officer
+352,352,High,Platinum,Single,31,Clinical research associate
+353,353,Medium,Gold,Married,61,Leisure centre manager
+354,354,Low,Platinum,Single,54,"Programmer, systems"
+355,355,Medium,Platinum,Single,65,Armed forces operational officer
+356,356,High,Bronze,Married,62,"Research officer, government"
+357,357,High,Silver,Married,70,"Therapist, speech and language"
+358,358,High,Gold,Married,50,"Lecturer, higher education"
+359,359,High,Gold,Single,30,"Engineer, water"
+360,360,High,Platinum,Married,67,Pensions consultant
+361,361,Medium,Platinum,Single,27,Tourist information centre manager
+362,362,Medium,Platinum,Single,56,Speech and language therapist
+363,363,Low,Silver,Married,52,"Conservator, furniture"
+364,364,High,Gold,Married,69,Sub
+365,365,High,Silver,Single,33,Energy engineer
+366,366,Low,Gold,Married,53,Retail merchandiser
+367,367,Low,Bronze,Single,37,Lexicographer
+368,368,High,Silver,Single,34,Adult nurse
+369,369,Medium,Platinum,Single,32,Fisheries officer
+370,370,High,Platinum,Single,51,Radio broadcast assistant
+371,371,Low,Platinum,Married,27,Cabin crew
+372,372,High,Gold,Single,39,Meteorologist
+373,373,High,Gold,Married,33,"Engineer, biomedical"
+374,374,Medium,Bronze,Married,22,Planning and development surveyor
+375,375,Medium,Bronze,Married,37,"Restaurant manager, fast food"
+376,376,High,Gold,Married,48,Communications engineer
+377,377,Low,Silver,Single,34,Product manager
+378,378,High,Bronze,Single,49,Environmental health practitioner
+379,379,Low,Platinum,Single,39,"Scientist, research (physical sciences)"
+380,380,Medium,Silver,Single,26,Health promotion specialist
+381,381,Low,Silver,Married,49,Dancer
+382,382,Medium,Gold,Single,35,Sports development officer
+383,383,High,Platinum,Single,49,"Scientist, physiological"
+384,384,High,Platinum,Married,30,"Education officer, environmental"
+385,385,High,Bronze,Married,28,"Journalist, magazine"
+386,386,Medium,Bronze,Married,63,Podiatrist
+387,387,Medium,Bronze,Single,57,"Administrator, education"
+388,388,Medium,Platinum,Single,58,Applications developer
+389,389,High,Silver,Single,49,"Editor, magazine features"
+390,390,High,Platinum,Single,19,Financial adviser
+391,391,Medium,Bronze,Married,62,Data scientist
+392,392,High,Gold,Married,67,"Pilot, airline"
+393,393,Medium,Gold,Married,43,Purchasing manager
+394,394,Medium,Bronze,Single,47,Optometrist
+395,395,Low,Silver,Single,36,Orthoptist
+396,396,High,Bronze,Married,38,Electronics engineer
+397,397,High,Silver,Married,37,"Biochemist, clinical"
+398,398,High,Bronze,Single,51,Multimedia programmer
+399,399,Medium,Silver,Married,22,Oceanographer
+400,400,Low,Bronze,Married,64,Neurosurgeon
+401,401,Low,Silver,Single,59,"Designer, multimedia"
+402,402,Medium,Gold,Single,22,Youth worker
+403,403,High,Silver,Married,51,Film/video editor
+404,404,High,Bronze,Single,22,Tax adviser
+405,405,Low,Silver,Married,62,Industrial buyer
+406,406,Low,Silver,Single,40,Health and safety adviser
+407,407,High,Gold,Married,41,Senior tax professional/tax inspector
+408,408,Low,Silver,Married,18,Optometrist
+409,409,Medium,Silver,Married,36,Retail buyer
+410,410,High,Bronze,Single,38,Copy
+411,411,Medium,Gold,Single,59,Mental health nurse
+412,412,High,Bronze,Single,33,Environmental health practitioner
+413,413,High,Platinum,Single,58,Optometrist
+414,414,Medium,Platinum,Single,19,Garment/textile technologist
+415,415,Low,Silver,Single,28,"Therapist, occupational"
+416,416,Medium,Silver,Single,41,Customer service manager
+417,417,Low,Silver,Married,63,"Conservation officer, nature"
+418,418,Medium,Gold,Married,47,Politician's assistant
+419,419,Medium,Silver,Single,64,Counselling psychologist
+420,420,High,Gold,Married,41,"Scientist, audiological"
+421,421,Low,Silver,Single,35,"Biochemist, clinical"
+422,422,Low,Silver,Single,62,Primary school teacher
+423,423,Medium,Gold,Single,59,"Administrator, sports"
+424,424,High,Platinum,Married,34,"Teacher, secondary school"
+425,425,Medium,Platinum,Single,60,Corporate treasurer
+426,426,Low,Platinum,Single,66,"Investment banker, operational"
+427,427,Medium,Gold,Married,26,Homeopath
+428,428,Medium,Silver,Married,42,General practice doctor
+429,429,Medium,Bronze,Married,46,Research scientist (maths)
+430,430,Low,Silver,Married,37,"Psychotherapist, dance movement"
+431,431,Medium,Platinum,Married,42,Seismic interpreter
+432,432,Low,Gold,Married,30,"Presenter, broadcasting"
+433,433,Low,Silver,Single,46,Publishing rights manager
+434,434,High,Platinum,Married,45,"Engineer, drilling"
+435,435,Low,Bronze,Married,57,Photographer
+436,436,Low,Silver,Married,65,Copy
+437,437,High,Silver,Single,50,"Scientist, audiological"
+438,438,Medium,Silver,Married,19,Estate agent
+439,439,Low,Platinum,Single,48,Toxicologist
+440,440,Medium,Silver,Single,18,Textile designer
+441,441,Medium,Silver,Married,26,Advertising account planner
+442,442,Low,Platinum,Married,41,Web designer
+443,443,High,Silver,Married,19,Insurance account manager
+444,444,High,Bronze,Married,53,Advice worker
+445,445,Low,Platinum,Single,57,"Nurse, mental health"
+446,446,Low,Platinum,Married,36,Chief Executive Officer
+447,447,Medium,Bronze,Married,36,"Administrator, sports"
+448,448,Medium,Silver,Single,64,Personal assistant
+449,449,Medium,Bronze,Single,69,Clinical psychologist
+450,450,Medium,Gold,Married,40,"Teacher, primary school"
+451,451,Medium,Silver,Married,59,"Engineer, communications"
+452,452,Medium,Silver,Single,67,"Lighting technician, broadcasting/film/video"
+453,453,High,Silver,Married,62,"Engineer, drilling"
+454,454,Low,Gold,Single,45,Water engineer
+455,455,High,Platinum,Married,69,Community development worker
+456,456,Medium,Gold,Married,38,Clinical molecular geneticist
+457,457,Medium,Gold,Single,56,Office manager
+458,458,High,Platinum,Married,18,"Teacher, special educational needs"
+459,459,Low,Gold,Married,69,TEFL teacher
+460,460,Low,Gold,Single,56,Retail buyer
+461,461,Low,Silver,Single,54,Community education officer
+462,462,High,Platinum,Single,30,"Optician, dispensing"
+463,463,Medium,Bronze,Married,58,"Nurse, adult"
+464,464,Medium,Platinum,Married,42,"Editor, commissioning"
+465,465,Low,Silver,Married,39,Software engineer
+466,466,High,Silver,Single,24,Music therapist
+467,467,Low,Gold,Married,36,Metallurgist
+468,468,Medium,Bronze,Single,32,Geographical information systems officer
+469,469,High,Platinum,Single,41,"Nurse, mental health"
+470,470,Low,Gold,Married,66,Architect
+471,471,Medium,Bronze,Married,54,"Engineer, automotive"
+472,472,High,Silver,Married,51,Manufacturing systems engineer
+473,473,High,Bronze,Single,49,Chemical engineer
+474,474,Low,Bronze,Married,22,Charity fundraiser
+475,475,Medium,Platinum,Married,61,Graphic designer
+476,476,High,Gold,Married,49,Industrial/product designer
+477,477,High,Bronze,Single,48,Intelligence analyst
+478,478,Low,Platinum,Married,37,Chief Technology Officer
+479,479,Low,Platinum,Single,44,"Engineer, maintenance (IT)"
+480,480,High,Gold,Married,56,"Administrator, local government"
+481,481,Low,Gold,Single,39,Information officer
+482,482,Low,Bronze,Single,59,"Research officer, government"
+483,483,High,Silver,Single,46,"Therapist, drama"
+484,484,Low,Silver,Married,39,Chartered legal executive (England and Wales)
+485,485,Low,Bronze,Single,57,"Scientist, forensic"
+486,486,Low,Gold,Single,47,Insurance risk surveyor
+487,487,High,Silver,Married,55,Drilling engineer
+488,488,High,Bronze,Married,60,"Teacher, special educational needs"
+489,489,Medium,Bronze,Married,54,"Sales professional, IT"
+490,490,Medium,Silver,Married,52,Seismic interpreter
+491,491,High,Silver,Single,66,Air broker
+492,492,High,Platinum,Married,55,Analytical chemist
+493,493,Medium,Platinum,Single,41,Regulatory affairs officer
+494,494,Low,Platinum,Married,37,Podiatrist
+495,495,Medium,Gold,Married,28,Training and development officer
+496,496,High,Silver,Single,35,Maintenance engineer
+497,497,Low,Platinum,Single,53,Mechanical engineer
+498,498,High,Silver,Single,57,"Engineer, mining"
+499,499,Medium,Bronze,Married,31,Audiological scientist
+500,500,Low,Platinum,Married,69,Air cabin crew
+501,501,High,Bronze,Single,61,Museum/gallery curator
+502,502,Low,Platinum,Single,41,"Journalist, newspaper"
+503,503,High,Platinum,Married,69,Trade mark attorney
+504,504,Medium,Silver,Married,51,Outdoor activities/education manager
+505,505,Low,Bronze,Married,33,"Pilot, airline"
+506,506,High,Silver,Married,45,Occupational psychologist
+507,507,Low,Bronze,Single,58,Adult guidance worker
+508,508,High,Platinum,Single,20,Banker
+509,509,Medium,Platinum,Married,36,"Engineer, chemical"
+510,510,Medium,Gold,Married,20,Commercial horticulturist
+511,511,Low,Platinum,Married,62,Trading standards officer
+512,512,Medium,Gold,Married,52,Television/film/video producer
+513,513,Low,Bronze,Single,27,"Engineer, electronics"
+514,514,Medium,Platinum,Single,30,"Civil engineer, consulting"
+515,515,Medium,Bronze,Married,46,Telecommunications researcher
+516,516,Low,Silver,Married,58,"Geologist, engineering"
+517,517,High,Gold,Married,39,Intelligence analyst
+518,518,High,Gold,Single,20,Sales executive
+519,519,Low,Platinum,Single,35,"Conservation officer, historic buildings"
+520,520,Low,Silver,Married,19,Music therapist
+521,521,High,Silver,Single,21,Magazine journalist
+522,522,Low,Bronze,Single,53,Network engineer
+523,523,High,Silver,Single,45,"Loss adjuster, chartered"
+524,524,Low,Platinum,Married,70,Planning and development surveyor
+525,525,Low,Gold,Single,50,Chief of Staff
+526,526,High,Platinum,Single,59,"Runner, broadcasting/film/video"
+527,527,High,Bronze,Married,63,Psychotherapist
+528,528,Low,Gold,Single,25,Magazine journalist
+529,529,Low,Gold,Single,65,"Administrator, Civil Service"
+530,530,High,Platinum,Married,42,Market researcher
+531,531,Medium,Platinum,Single,18,"Geologist, wellsite"
+532,532,High,Platinum,Married,25,Technical brewer
+533,533,Medium,Bronze,Single,23,Health service manager
+534,534,Low,Bronze,Single,69,Health visitor
+535,535,Low,Bronze,Single,24,Exhibition designer
+536,536,Low,Gold,Married,36,Associate Professor
+537,537,Medium,Gold,Single,38,Production manager
+538,538,Low,Platinum,Single,49,Furniture conservator/restorer
+539,539,High,Silver,Married,56,"Buyer, retail"
+540,540,Low,Gold,Single,23,Regulatory affairs officer
+541,541,Low,Bronze,Married,40,"Engineer, water"
+542,542,High,Platinum,Single,19,Petroleum engineer
+543,543,Low,Bronze,Single,35,Banker
+544,544,High,Bronze,Married,26,Editorial assistant
+545,545,Medium,Platinum,Single,47,Public librarian
+546,546,Low,Platinum,Married,34,"Engineer, communications"
+547,547,High,Silver,Married,34,Energy manager
+548,548,Low,Silver,Married,28,Pensions consultant
+549,549,High,Platinum,Single,20,Warden/ranger
+550,550,High,Platinum,Married,19,"Scientist, product/process development"
+551,551,High,Platinum,Married,64,Therapeutic radiographer
+552,552,Low,Silver,Single,21,Police officer
+553,553,High,Silver,Married,48,"Surveyor, mining"
+554,554,High,Gold,Single,30,"Therapist, drama"
+555,555,High,Gold,Single,67,"Librarian, public"
+556,556,Medium,Bronze,Single,63,"Geologist, engineering"
+557,557,High,Silver,Single,28,Interior and spatial designer
+558,558,Low,Platinum,Single,48,Oncologist
+559,559,Low,Silver,Single,27,Clinical cytogeneticist
+560,560,Low,Platinum,Single,45,Financial adviser
+561,561,Low,Bronze,Married,65,Writer
+562,562,Medium,Bronze,Married,37,"Surveyor, mining"
+563,563,Low,Bronze,Married,50,"Surveyor, rural practice"
+564,564,High,Silver,Single,33,"Development worker, international aid"
+565,565,Low,Gold,Married,69,"Designer, television/film set"
+566,566,Low,Bronze,Single,40,Cabin crew
+567,567,Medium,Platinum,Single,67,"Scientist, biomedical"
+568,568,Low,Silver,Single,22,Lawyer
+569,569,Medium,Gold,Single,40,Legal secretary
+570,570,Low,Gold,Married,33,"Therapist, speech and language"
+571,571,Low,Gold,Married,41,Market researcher
+572,572,Medium,Platinum,Married,68,Learning mentor
+573,573,Low,Silver,Married,44,Recycling officer
+574,574,Low,Bronze,Single,51,Mental health nurse
+575,575,Low,Silver,Single,63,Health promotion specialist
+576,576,Low,Silver,Married,19,Geographical information systems officer
+577,577,Low,Platinum,Single,36,"Exhibitions officer, museum/gallery"
+578,578,Medium,Gold,Single,19,"Production assistant, television"
+579,579,High,Gold,Married,53,Further education lecturer
+580,580,Low,Bronze,Married,65,"Engineer, materials"
+581,581,Low,Platinum,Married,35,Forensic psychologist
+582,582,Low,Gold,Married,59,Environmental health practitioner
+583,583,Low,Silver,Single,31,Bookseller
+584,584,High,Silver,Married,47,Learning disability nurse
+585,585,Medium,Bronze,Married,22,Art therapist
+586,586,High,Silver,Single,66,"Lighting technician, broadcasting/film/video"
+587,587,High,Bronze,Single,22,Tax adviser
+588,588,High,Platinum,Married,22,"Production assistant, television"
+589,589,Medium,Silver,Single,23,Production manager
+590,590,Low,Gold,Single,48,Land/geomatics surveyor
+591,591,Medium,Gold,Single,28,Podiatrist
+592,592,High,Bronze,Married,31,Mining engineer
+593,593,Low,Platinum,Married,68,Restaurant manager
+594,594,High,Gold,Single,35,"Doctor, hospital"
+595,595,Low,Silver,Married,43,Building control surveyor
+596,596,Medium,Silver,Married,59,"Sales professional, IT"
+597,597,High,Gold,Married,64,Diplomatic Services operational officer
+598,598,Medium,Gold,Single,66,Immunologist
+599,599,High,Bronze,Single,31,Psychiatrist
+600,600,Medium,Silver,Single,62,"Surveyor, land/geomatics"
+601,601,Low,Platinum,Single,28,Dietitian
+602,602,Low,Gold,Single,59,"Surveyor, insurance"
+603,603,Low,Platinum,Single,27,"Research officer, political party"
+604,604,High,Platinum,Married,33,"Engineer, technical sales"
+605,605,Low,Gold,Married,34,Clothing/textile technologist
+606,606,High,Bronze,Single,60,"Teacher, special educational needs"
+607,607,High,Silver,Single,30,Chartered public finance accountant
+608,608,Low,Bronze,Married,37,Jewellery designer
+609,609,High,Platinum,Married,24,Audiological scientist
+610,610,Low,Bronze,Single,54,"Administrator, Civil Service"
+611,611,Low,Platinum,Married,43,Medical sales representative
+612,612,Medium,Bronze,Single,52,"Nurse, learning disability"
+613,613,Low,Gold,Married,21,Landscape architect
+614,614,Medium,Platinum,Single,35,Futures trader
+615,615,Medium,Bronze,Married,55,"Engineer, control and instrumentation"
+616,616,Medium,Silver,Married,22,Make
+617,617,Medium,Platinum,Married,19,Theme park manager
+618,618,Medium,Bronze,Married,55,Physiological scientist
+619,619,Low,Gold,Single,69,Data scientist
+620,620,Medium,Bronze,Married,39,"Development worker, international aid"
+621,621,Medium,Silver,Married,40,"Teacher, music"
+622,622,Low,Silver,Married,38,"Psychologist, counselling"
+623,623,Medium,Silver,Married,50,Magazine journalist
+624,624,Medium,Bronze,Single,26,Psychotherapist
+625,625,Low,Gold,Married,35,Public relations officer
+626,626,Low,Bronze,Married,51,"Scientist, physiological"
+627,627,Low,Gold,Single,36,"Scientist, research (maths)"
+628,628,High,Silver,Married,26,Lexicographer
+629,629,High,Platinum,Single,40,Nature conservation officer
+630,630,Low,Gold,Married,36,Commercial art gallery manager
+631,631,High,Platinum,Single,35,Event organiser
+632,632,High,Silver,Single,49,Chief Marketing Officer
+633,633,High,Silver,Single,29,Occupational hygienist
+634,634,Low,Gold,Married,42,Retail banker
+635,635,Medium,Bronze,Single,41,Industrial buyer
+636,636,Low,Silver,Married,23,"Production assistant, television"
+637,637,Low,Silver,Married,41,IT trainer
+638,638,High,Bronze,Married,61,Television/film/video producer
+639,639,Medium,Platinum,Married,56,"Designer, graphic"
+640,640,High,Bronze,Single,49,Haematologist
+641,641,Medium,Silver,Single,50,Arts administrator
+642,642,High,Platinum,Married,54,"Engineer, manufacturing"
+643,643,Medium,Gold,Married,18,Museum/gallery curator
+644,644,Low,Bronze,Single,19,"Engineer, drilling"
+645,645,Medium,Bronze,Married,56,Advertising art director
+646,646,High,Gold,Married,63,Firefighter
+647,647,High,Bronze,Married,36,Social researcher
+648,648,Medium,Bronze,Married,39,"Scientist, marine"
+649,649,Medium,Bronze,Single,26,Armed forces technical officer
+650,650,High,Gold,Single,58,Research scientist (medical)
+651,651,Medium,Bronze,Married,53,"Teacher, primary school"
+652,652,High,Bronze,Married,55,Regulatory affairs officer
+653,653,High,Platinum,Single,50,Surgeon
+654,654,High,Silver,Single,27,Teaching laboratory technician
+655,655,Medium,Gold,Married,35,Community development worker
+656,656,Medium,Silver,Married,30,Immunologist
+657,657,Low,Platinum,Married,49,Probation officer
+658,658,Medium,Bronze,Single,20,Video editor
+659,659,Medium,Platinum,Single,61,Landscape architect
+660,660,High,Silver,Married,34,"Copywriter, advertising"
+661,661,High,Platinum,Married,70,Clothing/textile technologist
+662,662,Low,Silver,Single,37,Ergonomist
+663,663,High,Gold,Married,26,Forensic psychologist
+664,664,Medium,Gold,Married,64,Banker
+665,665,High,Silver,Single,49,"Engineer, manufacturing systems"
+666,666,Medium,Platinum,Married,38,"Production designer, theatre/television/film"
+667,667,Medium,Platinum,Single,23,Medical laboratory scientific officer
+668,668,Low,Gold,Married,25,Advertising copywriter
+669,669,Low,Silver,Single,69,Politician's assistant
+670,670,Low,Bronze,Single,27,Animal nutritionist
+671,671,Medium,Platinum,Married,27,"Horticulturist, commercial"
+672,672,Medium,Gold,Married,30,Chief Strategy Officer
+673,673,Low,Gold,Single,51,"Administrator, sports"
+674,674,Low,Silver,Married,70,Primary school teacher
+675,675,Low,Bronze,Single,53,Technical author
+676,676,High,Gold,Married,21,"Surveyor, commercial/residential"
+677,677,Low,Platinum,Single,46,Publishing copy
+678,678,Low,Gold,Single,37,"Engineer, energy"
+679,679,High,Silver,Married,21,Licensed conveyancer
+680,680,High,Platinum,Single,24,Chief Strategy Officer
+681,681,High,Silver,Single,43,Geographical information systems officer
+682,682,Low,Gold,Married,39,Clinical biochemist
+683,683,Low,Silver,Single,37,Geophysical data processor
+684,684,High,Silver,Single,45,"Sales professional, IT"
+685,685,Medium,Silver,Single,44,"Teacher, special educational needs"
+686,686,Low,Platinum,Married,18,Commissioning editor
+687,687,Low,Silver,Single,26,"Engineer, control and instrumentation"
+688,688,High,Silver,Married,41,"Journalist, magazine"
+689,689,Medium,Silver,Married,20,Environmental health practitioner
+690,690,Low,Platinum,Married,26,"Engineer, water"
+691,691,Medium,Silver,Married,37,"Research officer, political party"
+692,692,High,Silver,Married,43,"Engineer, maintenance (IT)"
+693,693,High,Silver,Single,51,Education administrator
+694,694,High,Platinum,Married,25,Technical brewer
+695,695,High,Silver,Married,53,"Administrator, sports"
+696,696,High,Silver,Single,46,"Scientist, research (maths)"
+697,697,High,Platinum,Married,29,Purchasing manager
+698,698,Medium,Platinum,Married,65,Art therapist
+699,699,Medium,Bronze,Single,65,Museum/gallery curator
+700,700,High,Silver,Married,63,"Designer, ceramics/pottery"
+701,701,Medium,Platinum,Married,68,Chief of Staff
+702,702,Low,Bronze,Married,46,"Psychologist, educational"
+703,703,Low,Platinum,Married,44,"Engineer, building services"
+704,704,Low,Silver,Married,54,Teaching laboratory technician
+705,705,Low,Platinum,Married,34,"Administrator, education"
+706,706,Low,Bronze,Single,65,"Producer, television/film/video"
+707,707,High,Silver,Single,18,Dancer
+708,708,Low,Bronze,Single,43,"Conservation officer, nature"
+709,709,Medium,Silver,Married,37,Communications engineer
+710,710,Low,Silver,Married,56,Legal executive
+711,711,Medium,Gold,Married,30,Actuary
+712,712,Medium,Silver,Married,65,"Education officer, community"
+713,713,Medium,Silver,Married,68,Occupational hygienist
+714,714,Medium,Silver,Single,47,Public house manager
+715,715,Medium,Silver,Married,29,Education administrator
+716,716,Medium,Bronze,Married,25,Industrial buyer
+717,717,Low,Gold,Married,47,Animal technologist
+718,718,High,Gold,Single,26,"Restaurant manager, fast food"
+719,719,Medium,Bronze,Single,34,Tax adviser
+720,720,High,Platinum,Married,65,Environmental education officer
+721,721,Medium,Bronze,Married,54,Trade union research officer
+722,722,High,Bronze,Married,22,Energy engineer
+723,723,Low,Gold,Single,22,Investment analyst
+724,724,High,Platinum,Single,48,"Therapist, occupational"
+725,725,Low,Gold,Married,34,Contractor
+726,726,Low,Gold,Married,49,Astronomer
+727,727,Low,Gold,Married,24,Clinical psychologist
+728,728,Medium,Platinum,Single,45,Broadcast engineer
+729,729,High,Platinum,Married,31,"Engineer, maintenance (IT)"
+730,730,Medium,Platinum,Single,51,Cytogeneticist
+731,731,Low,Platinum,Single,51,Health and safety adviser
+732,732,Medium,Bronze,Single,28,Printmaker
+733,733,Medium,Bronze,Married,36,Hydrologist
+734,734,Low,Platinum,Single,49,Advertising art director
+735,735,Low,Platinum,Single,31,Geoscientist
+736,736,Low,Bronze,Single,26,"Chemist, analytical"
+737,737,High,Silver,Married,66,"Surveyor, quantity"
+738,738,Low,Bronze,Single,33,Field trials officer
+739,739,Medium,Platinum,Single,59,Accommodation manager
+740,740,Low,Platinum,Single,42,Geoscientist
+741,741,High,Gold,Single,26,"Engineer, civil (contracting)"
+742,742,High,Platinum,Single,51,"Scientist, marine"
+743,743,Low,Gold,Single,34,"Radiographer, therapeutic"
+744,744,High,Silver,Single,24,Neurosurgeon
+745,745,Medium,Gold,Single,45,"Scientist, marine"
+746,746,High,Platinum,Married,20,Optometrist
+747,747,Medium,Gold,Married,66,Pension scheme manager
+748,748,Low,Platinum,Married,26,Police officer
+749,749,High,Silver,Married,24,Glass blower/designer
+750,750,Medium,Platinum,Married,20,"Lecturer, higher education"
+751,751,Low,Silver,Married,63,Dispensing optician
+752,752,Low,Bronze,Married,50,Lobbyist
+753,753,Low,Silver,Married,70,"Pharmacist, hospital"
+754,754,High,Bronze,Married,22,Energy manager
+755,755,High,Bronze,Married,38,Water engineer
+756,756,High,Platinum,Single,47,Chartered management accountant
+757,757,Medium,Silver,Married,19,Landscape architect
+758,758,High,Gold,Married,66,Scientific laboratory technician
+759,759,High,Platinum,Single,61,Health physicist
+760,760,High,Bronze,Married,39,"Embryologist, clinical"
+761,761,High,Platinum,Single,45,Television production assistant
+762,762,High,Silver,Single,60,Financial manager
+763,763,High,Platinum,Married,66,Archaeologist
+764,764,Medium,Gold,Single,49,Water engineer
+765,765,High,Gold,Single,21,Contractor
+766,766,Low,Platinum,Single,47,Food technologist
+767,767,Medium,Platinum,Married,39,Garment/textile technologist
+768,768,Low,Platinum,Single,39,"Engineer, broadcasting (operations)"
+769,769,Medium,Gold,Married,42,Ecologist
+770,770,Medium,Platinum,Married,31,Diagnostic radiographer
+771,771,High,Silver,Married,48,Medical illustrator
+772,772,High,Bronze,Single,29,Clinical biochemist
+773,773,Medium,Bronze,Single,39,Television floor manager
+774,774,Medium,Silver,Married,34,Warden/ranger
+775,775,Medium,Platinum,Single,70,"Exhibitions officer, museum/gallery"
+776,776,Medium,Silver,Married,56,"Psychologist, counselling"
+777,777,Medium,Silver,Married,18,Senior tax professional/tax inspector
+778,778,Medium,Bronze,Married,46,Licensed conveyancer
+779,779,Low,Bronze,Married,57,"Surveyor, commercial/residential"
+780,780,Medium,Bronze,Married,20,Special effects artist
+781,781,Medium,Bronze,Married,34,Pension scheme manager
+782,782,Medium,Gold,Married,47,Control and instrumentation engineer
+783,783,High,Silver,Married,60,"Therapist, nutritional"
+784,784,Low,Bronze,Married,22,Early years teacher
+785,785,High,Platinum,Single,20,Petroleum engineer
+786,786,High,Platinum,Married,48,Equities trader
+787,787,Low,Silver,Married,53,Chief Executive Officer
+788,788,Low,Silver,Married,47,Photographer
+789,789,Medium,Bronze,Married,62,Associate Professor
+790,790,Medium,Silver,Single,67,"Surveyor, quantity"
+791,791,High,Gold,Single,50,Conference centre manager
+792,792,High,Platinum,Single,22,Software engineer
+793,793,Medium,Bronze,Single,41,"Therapist, drama"
+794,794,High,Bronze,Married,30,Land
+795,795,Medium,Platinum,Married,19,Chiropractor
+796,796,Medium,Bronze,Single,66,"Designer, textile"
+797,797,Low,Silver,Single,57,"Therapist, occupational"
+798,798,High,Bronze,Married,21,Nutritional therapist
+799,799,Low,Bronze,Single,62,Building control surveyor
+800,800,Medium,Bronze,Married,58,"Scientist, physiological"
+801,801,High,Bronze,Married,27,Private music teacher
+802,802,High,Gold,Single,28,Equality and diversity officer
+803,803,High,Silver,Married,50,Professor Emeritus
+804,804,High,Bronze,Married,36,Forensic scientist
+805,805,Low,Platinum,Single,23,Sales executive
+806,806,High,Bronze,Married,56,Printmaker
+807,807,High,Silver,Married,57,Academic librarian
+808,808,High,Platinum,Single,63,Advertising copywriter
+809,809,Medium,Gold,Single,32,Systems analyst
+810,810,Medium,Bronze,Married,41,"Buyer, retail"
+811,811,Low,Silver,Married,43,Operational investment banker
+812,812,Low,Gold,Single,63,Politician's assistant
+813,813,Low,Platinum,Single,65,Podiatrist
+814,814,Medium,Platinum,Married,65,Writer
+815,815,Low,Bronze,Married,27,Environmental manager
+816,816,Medium,Platinum,Married,60,Haematologist
+817,817,High,Bronze,Single,33,Engineering geologist
+818,818,Low,Platinum,Single,62,Music therapist
+819,819,High,Silver,Married,28,Fine artist
+820,820,High,Bronze,Single,32,Energy engineer
+821,821,High,Gold,Married,36,Bookseller
+822,822,Medium,Bronze,Married,27,"Surveyor, building"
+823,823,High,Gold,Married,59,IT technical support officer
+824,824,Medium,Gold,Single,69,Statistician
+825,825,Low,Gold,Single,39,Conference centre manager
+826,826,Medium,Gold,Married,52,Site engineer
+827,827,Low,Platinum,Married,36,"Psychologist, sport and exercise"
+828,828,High,Gold,Single,44,"Physicist, medical"
+829,829,Medium,Silver,Single,45,Energy manager
+830,830,High,Gold,Single,22,Mining engineer
+831,831,Low,Silver,Married,32,Dentist
+832,832,High,Gold,Married,49,Accounting technician
+833,833,Medium,Platinum,Married,49,Automotive engineer
+834,834,Medium,Gold,Single,53,Marketing executive
+835,835,High,Silver,Single,55,"Nurse, mental health"
+836,836,Medium,Gold,Married,37,"Surveyor, rural practice"
+837,837,Medium,Platinum,Married,65,Ranger/warden
+838,838,Medium,Platinum,Single,40,"Programmer, multimedia"
+839,839,Medium,Platinum,Married,44,Energy engineer
+840,840,High,Bronze,Married,51,Biomedical scientist
+841,841,High,Gold,Married,46,"Engineer, materials"
+842,842,Medium,Gold,Single,26,"Editor, magazine features"
+843,843,Medium,Gold,Single,45,Public relations officer
+844,844,Low,Bronze,Single,53,Metallurgist
+845,845,Medium,Bronze,Single,64,"Embryologist, clinical"
+846,846,High,Silver,Single,28,Product manager
+847,847,Low,Platinum,Married,33,Television/film/video producer
+848,848,Medium,Bronze,Married,59,Accommodation manager
+849,849,Low,Bronze,Single,67,Tax adviser
+850,850,Medium,Bronze,Married,52,"Engineer, structural"
+851,851,High,Silver,Single,32,Health and safety inspector
+852,852,Medium,Platinum,Married,60,Barista
+853,853,Low,Platinum,Single,21,Data processing manager
+854,854,Low,Silver,Single,50,Lawyer
+855,855,High,Platinum,Married,63,"Development worker, international aid"
+856,856,High,Gold,Single,32,"Teacher, secondary school"
+857,857,Low,Platinum,Married,44,"Conservation officer, historic buildings"
+858,858,High,Bronze,Single,68,Software engineer
+859,859,Low,Silver,Single,63,Technical author
+860,860,Medium,Silver,Married,40,Historic buildings inspector/conservation officer
+861,861,High,Silver,Married,70,"Scientist, biomedical"
+862,862,Medium,Bronze,Single,58,"Pilot, airline"
+863,863,High,Platinum,Single,59,Planning and development surveyor
+864,864,Medium,Platinum,Single,70,"Geologist, engineering"
+865,865,High,Platinum,Single,69,"Teacher, adult education"
+866,866,High,Gold,Single,61,Media buyer
+867,867,Low,Platinum,Single,48,Careers adviser
+868,868,Medium,Silver,Single,58,Physiotherapist
+869,869,Low,Silver,Single,58,Herpetologist
+870,870,Low,Gold,Single,33,Web designer
+871,871,Low,Gold,Single,41,Sports coach
+872,872,Medium,Gold,Married,67,"Editor, magazine features"
+873,873,Low,Bronze,Married,65,"Teacher, early years/pre"
+874,874,High,Silver,Married,51,Hospital pharmacist
+875,875,Medium,Gold,Married,20,Environmental education officer
+876,876,Low,Platinum,Married,63,Location manager
+877,877,Low,Platinum,Single,50,Legal secretary
+878,878,Low,Platinum,Single,32,Osteopath
+879,879,High,Bronze,Single,44,IT sales professional
+880,880,High,Platinum,Single,43,Careers information officer
+881,881,Medium,Bronze,Married,55,English as a second language teacher
+882,882,Low,Bronze,Single,70,Estate manager/land agent
+883,883,Medium,Platinum,Married,64,Energy manager
+884,884,High,Gold,Single,23,Publishing copy
+885,885,Low,Bronze,Single,34,Air traffic controller
+886,886,Medium,Platinum,Married,47,"Designer, multimedia"
+887,887,High,Gold,Single,49,IT sales professional
+888,888,High,Platinum,Single,46,Accommodation manager
+889,889,High,Platinum,Married,33,"Engineer, electrical"
+890,890,High,Platinum,Married,59,Telecommunications researcher
+891,891,Medium,Platinum,Single,63,Information officer
+892,892,Medium,Bronze,Single,57,Theatre director
+893,893,Low,Platinum,Married,64,Ophthalmologist
+894,894,Low,Bronze,Married,31,Bonds trader
+895,895,Medium,Silver,Single,53,Gaffer
+896,896,Low,Platinum,Single,65,"Lighting technician, broadcasting/film/video"
+897,897,High,Platinum,Married,62,Science writer
+898,898,High,Bronze,Married,36,"Designer, fashion/clothing"
+899,899,Low,Bronze,Married,54,Planning and development surveyor
+900,900,Low,Bronze,Single,41,"Scientist, marine"
+901,901,Low,Silver,Married,54,Speech and language therapist
+902,902,High,Silver,Single,38,"Geologist, wellsite"
+903,903,Medium,Silver,Single,30,Event organiser
+904,904,High,Platinum,Single,53,Financial manager
+905,905,High,Gold,Single,63,"Surveyor, land/geomatics"
+906,906,Medium,Gold,Single,20,Community pharmacist
+907,907,Low,Silver,Single,23,Chief Strategy Officer
+908,908,Low,Bronze,Single,64,Contracting civil engineer
+909,909,Medium,Gold,Single,48,Phytotherapist
+910,910,Medium,Bronze,Married,36,Pathologist
+911,911,Low,Silver,Single,60,"Nurse, adult"
+912,912,Medium,Gold,Married,65,"Teacher, special educational needs"
+913,913,High,Silver,Married,21,Adult guidance worker
+914,914,Low,Gold,Single,47,"Scientist, clinical (histocompatibility and immunogenetics)"
+915,915,High,Gold,Married,34,Sports administrator
+916,916,Low,Platinum,Single,46,Forensic psychologist
+917,917,High,Gold,Single,52,Sales promotion account executive
+918,918,High,Platinum,Married,55,Newspaper journalist
+919,919,Medium,Gold,Single,22,Economist
+920,920,Low,Silver,Married,52,Drilling engineer
+921,921,Low,Gold,Single,65,"Engineer, agricultural"
+922,922,Medium,Platinum,Single,69,Software engineer
+923,923,High,Bronze,Married,29,Artist
+924,924,Low,Bronze,Married,66,Product designer
+925,925,Medium,Bronze,Married,34,Dance movement psychotherapist
+926,926,High,Gold,Married,32,Newspaper journalist
+927,927,Low,Platinum,Married,69,Theme park manager
+928,928,Low,Platinum,Married,37,Bookseller
+929,929,Low,Silver,Married,62,"Engineer, energy"
+930,930,Low,Bronze,Married,68,Air traffic controller
+931,931,Low,Bronze,Single,59,Tourism officer
+932,932,High,Silver,Single,67,Engineering geologist
+933,933,High,Gold,Single,63,Health visitor
+934,934,Medium,Bronze,Single,58,Consulting civil engineer
+935,935,High,Gold,Married,51,Clinical psychologist
+936,936,High,Silver,Married,49,Higher education lecturer
+937,937,Medium,Gold,Married,53,"Nurse, children's"
+938,938,Low,Gold,Single,54,Fast food restaurant manager
+939,939,Low,Platinum,Married,48,Careers information officer
+940,940,High,Gold,Single,61,Diagnostic radiographer
+941,941,Medium,Silver,Single,45,Dispensing optician
+942,942,Low,Platinum,Single,58,"Solicitor, Scotland"
+943,943,Medium,Silver,Married,33,Haematologist
+944,944,Low,Platinum,Single,44,Editorial assistant
+945,945,High,Gold,Married,70,Furniture designer
+946,946,Medium,Bronze,Single,44,Health promotion specialist
+947,947,Low,Bronze,Single,63,Haematologist
+948,948,Low,Platinum,Married,69,"Conservation officer, nature"
+949,949,High,Platinum,Married,38,"Scientist, research (life sciences)"
+950,950,Low,Platinum,Married,38,Television camera operator
+951,951,Low,Bronze,Single,70,Advertising copywriter
+952,952,Medium,Silver,Single,25,Jewellery designer
+953,953,High,Platinum,Single,42,"Journalist, newspaper"
+954,954,Low,Bronze,Single,43,Lexicographer
+955,955,Low,Bronze,Married,24,Housing manager/officer
+956,956,High,Platinum,Single,58,"Scientist, audiological"
+957,957,Medium,Bronze,Single,24,Financial controller
+958,958,High,Gold,Single,57,"Lighting technician, broadcasting/film/video"
+959,959,Medium,Bronze,Single,24,Retail merchandiser
+960,960,Low,Bronze,Single,44,Air traffic controller
+961,961,High,Bronze,Married,37,Operations geologist
+962,962,Medium,Bronze,Single,63,"Engineer, structural"
+963,963,Low,Silver,Single,41,Financial trader
+964,964,Medium,Gold,Single,26,Sport and exercise psychologist
+965,965,Medium,Bronze,Single,51,"Engineer, materials"
+966,966,High,Bronze,Married,43,Contracting civil engineer
+967,967,Low,Silver,Single,40,Stage manager
+968,968,High,Gold,Married,66,Make
+969,969,Low,Gold,Married,48,"Designer, fashion/clothing"
+970,970,High,Gold,Married,33,"Engineer, drilling"
+971,971,Medium,Silver,Single,38,Special educational needs teacher
+972,972,Medium,Bronze,Single,61,"Loss adjuster, chartered"
+973,973,High,Silver,Single,58,Optometrist
+974,974,Low,Platinum,Married,55,"Nurse, learning disability"
+975,975,High,Silver,Single,69,Recruitment consultant
+976,976,Low,Platinum,Married,64,Print production planner
+977,977,Low,Gold,Single,21,Dancer
+978,978,Medium,Gold,Married,24,Forensic scientist
+979,979,High,Platinum,Married,45,Company secretary
+980,980,Medium,Platinum,Single,36,Waste management officer
+981,981,Low,Silver,Single,50,Chartered legal executive (England and Wales)
+982,982,Low,Silver,Single,59,Paramedic
+983,983,Low,Silver,Single,22,"Programmer, systems"
+984,984,High,Silver,Single,24,Paediatric nurse
+985,985,Medium,Silver,Married,29,Photographer
+986,986,Medium,Bronze,Single,32,"Designer, interior/spatial"
+987,987,High,Bronze,Married,48,"Surveyor, commercial/residential"
+988,988,Medium,Gold,Single,45,Actuary
+989,989,High,Platinum,Single,39,Veterinary surgeon
+990,990,High,Platinum,Married,63,"Psychologist, prison and probation services"
+991,991,High,Bronze,Single,68,Publishing copy
+992,992,High,Silver,Married,24,Race relations officer
+993,993,High,Gold,Single,31,"Sound technician, broadcasting/film/video"
+994,994,Medium,Platinum,Single,66,Community education officer
+995,995,Medium,Bronze,Married,27,Financial controller
+996,996,High,Gold,Married,23,Archivist
+997,997,Medium,Platinum,Married,23,Arts administrator
+998,998,Medium,Silver,Married,52,Bonds trader
+999,999,High,Bronze,Single,19,Occupational therapist
+1000,1000,Medium,Silver,Married,54,"Scientist, research (physical sciences)"

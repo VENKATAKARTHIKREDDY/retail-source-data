@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,warehouse_type,city,state,country,capacity_units,manager_name
+1,WH_1,Cold Storage,Boydville,Arkansas,USA,24360,Thomas Mcfarland
+2,WH_2,Automated,Warrenmouth,New Mexico,USA,46531,Kayla Walker
+3,WH_3,Regional,Thompsonland,Ohio,USA,33236,Regina Hall
+4,WH_4,Central,Brianchester,Arkansas,USA,40453,William Salinas
+5,WH_5,Cold Storage,South Jessica,New York,USA,20023,Andrew Lloyd
+6,WH_6,Cold Storage,Lake Brent,Rhode Island,USA,26664,William Rivers
+7,WH_7,Automated,Cruztown,New York,USA,37493,Howard Robertson
+8,WH_8,Cold Storage,New Amandaside,Minnesota,USA,27038,Henry Saunders
+9,WH_9,Automated,Taylortown,Tennessee,USA,16972,Jordan Wade
+10,WH_10,Automated,East Corey,North Carolina,USA,10690,Joshua Chambers
+11,WH_11,Automated,East Christina,New York,USA,8248,Lance Wilson
+12,WH_12,Cold Storage,Valenzuelaside,Virginia,USA,40754,Gail Martin MD
+13,WH_13,Central,New Davidborough,Missouri,USA,18623,Christian Adams
+14,WH_14,Automated,Phillipsland,Connecticut,USA,37491,Lisa Jackson
+15,WH_15,Central,West Joan,Tennessee,USA,27987,Timothy Miller
+16,WH_16,Central,South Sarah,Ohio,USA,30023,Michelle Steele
+17,WH_17,Central,Royport,Connecticut,USA,14799,Dawn Barton
+18,WH_18,Cold Storage,Sparksburgh,Florida,USA,41035,Carla Scott
+19,WH_19,Cold Storage,East Amy,Delaware,USA,19356,Heidi Alexander
+20,WH_20,Automated,East Daniel,Wyoming,USA,40495,Darren Phillips
