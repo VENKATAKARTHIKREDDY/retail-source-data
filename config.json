@@ -1,0 +1,82 @@
+{
+  "project": "retail-data-ingestion",
+  "version": "1.0",
+  "source": {
+    "type": "github",
+    "baseRawUrl": "https://raw.githubusercontent.com/VENKATAKARTHIKREDDY/retail-source-data/main/retail_datasets"
+  },
+  "datasetDefaults": {
+    "format": "csv",
+    "firstRowAsHeader": true,
+    "columnDelimiter": ",",
+    "encoding": "UTF-8"
+  },
+  "folders": [
+    {
+      "folderName": "generated_csv",
+      "description": "Core retail transactional and master data",
+      "tables": [
+        {
+          "fileName": "customers.csv",
+          "tableName": "customers",
+          "domain": "customer"
+        },
+        {
+          "fileName": "customer_profiles.csv",
+          "tableName": "customer_profiles",
+          "domain": "customer"
+        },
+        {
+          "fileName": "orders.csv",
+          "tableName": "orders",
+          "domain": "sales"
+        },
+        {
+          "fileName": "order_items.csv",
+          "tableName": "order_items",
+          "domain": "sales"
+        },
+        {
+          "fileName": "payments.csv",
+          "tableName": "payments",
+          "domain": "finance"
+        },
+        {
+          "fileName": "products.csv",
+          "tableName": "products",
+          "domain": "inventory"
+        },
+        {
+          "fileName": "inventory.csv",
+          "tableName": "inventory",
+          "domain": "inventory"
+        },
+        {
+          "fileName": "returns.csv",
+          "tableName": "returns",
+          "domain": "after_sales"
+        },
+        {
+          "fileName": "stores.csv",
+          "tableName": "stores",
+          "domain": "retail_ops"
+        },
+        {
+          "fileName": "suppliers.csv",
+          "tableName": "suppliers",
+          "domain": "supply_chain"
+        },
+        {
+          "fileName": "warehouses.csv",
+          "tableName": "warehouses",
+          "domain": "supply_chain"
+        }
+      ]
+    }
+  ],
+  "adfPipelineConfig": {
+    "useForEach": true,
+    "lookupActivityName": "Lookup_Metadata",
+    "forEachItemsPath": "$.folders[0].tables"
+  }
+}
