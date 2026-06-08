@@ -3,7 +3,7 @@
   "version": "1.0",
   "source": {
     "type": "github",
-    "baseRawUrl": "https://raw.githubusercontent.com/VENKATAKARTHIKREDDY/retail-source-data/main/retail_datasets"
+    "baseRawUrl": "VENKATAKARTHIKREDDY/retail-source-data/main/retail_datasets"
   },
   "datasetDefaults": {
     "format": "csv",
